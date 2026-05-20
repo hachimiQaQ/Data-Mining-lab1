@@ -1,0 +1,9398 @@
+{
+  "79698": {
+    "budget": 27000000,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Action|Adventure|Science Fiction|Romance"
+  },
+  "7978": {
+    "budget": 150000000,
+    "revenue": 140700000,
+    "runtime": 103,
+    "genres": "Horror"
+  },
+  "10588": {
+    "budget": 109000000,
+    "revenue": 133800000,
+    "runtime": 82,
+    "genres": "Family|Comedy|Adventure|Fantasy"
+  },
+  "10214": {
+    "budget": 84000000,
+    "revenue": 59918422,
+    "runtime": 94,
+    "genres": "Fantasy|Comedy|Family|Adventure"
+  },
+  "77953": {
+    "budget": 95000000,
+    "revenue": 104907746,
+    "runtime": 85,
+    "genres": "Comedy"
+  },
+  "258509": {
+    "budget": 90000000,
+    "revenue": 233755553,
+    "runtime": 92,
+    "genres": "Family|Comedy|Music|Adventure|Animation"
+  },
+  "10357": {
+    "budget": 90000000,
+    "revenue": 122823468,
+    "runtime": 104,
+    "genres": "Science Fiction|Action|Drama|Thriller"
+  },
+  "51052": {
+    "budget": 10000000,
+    "revenue": 151300000,
+    "runtime": 97,
+    "genres": "Drama|Animation|Family|Comedy"
+  },
+  "16858": {
+    "budget": 12000000,
+    "revenue": 37823676,
+    "runtime": 123,
+    "genres": "Drama"
+  },
+  "146216": {
+    "budget": 84000000,
+    "revenue": 148075565,
+    "runtime": 116,
+    "genres": "Action|Comedy|Crime|Thriller"
+  },
+  "12096": {
+    "budget": 65000000,
+    "revenue": 158851357,
+    "runtime": 93,
+    "genres": "Comedy|Mystery|Crime|Adventure|Family"
+  },
+  "161795": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117,
+    "genres": "Romance|Drama"
+  },
+  "9822": {
+    "budget": 90000000,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Adventure|Family|Action|Fantasy"
+  },
+  "9678": {
+    "budget": 85000000,
+    "revenue": 58292295,
+    "runtime": 90,
+    "genres": "Comedy|Fantasy"
+  },
+  "330770": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Mystery|Drama|Horror"
+  },
+  "9433": {
+    "budget": 30000000,
+    "revenue": 43300000,
+    "runtime": 117,
+    "genres": "Action|Adventure|Drama"
+  },
+  "36970": {
+    "budget": 80000000,
+    "revenue": 83090556,
+    "runtime": 104,
+    "genres": "Documentary|Family|Drama"
+  },
+  "293644": {
+    "budget": 8000000,
+    "revenue": 4668442,
+    "runtime": 89,
+    "genres": "Comedy|Animation|Family"
+  },
+  "332": {
+    "budget": 75000000,
+    "revenue": 134403112,
+    "runtime": 78,
+    "genres": "Action|Adventure|Comedy|Family"
+  },
+  "1439": {
+    "budget": 75000000,
+    "revenue": 113996937,
+    "runtime": 148,
+    "genres": "Drama|Romance|History"
+  },
+  "25769": {
+    "budget": 0,
+    "revenue": 5805279,
+    "runtime": 84,
+    "genres": "Action|Drama|Horror|Science Fiction|Thriller"
+  },
+  "10395": {
+    "budget": 70000000,
+    "revenue": 131002597,
+    "runtime": 125,
+    "genres": "Horror|Drama|Romance"
+  },
+  "11535": {
+    "budget": 70000000,
+    "revenue": 25852764,
+    "runtime": 98,
+    "genres": "Action|Science Fiction|Thriller"
+  },
+  "11820": {
+    "budget": 72300000,
+    "revenue": 141337989,
+    "runtime": 117,
+    "genres": "Drama|History|Romance"
+  },
+  "9440": {
+    "budget": 65000000,
+    "revenue": 52090187,
+    "runtime": 143,
+    "genres": "Drama|Comedy"
+  },
+  "11983": {
+    "budget": 65000000,
+    "revenue": 62761005,
+    "runtime": 135,
+    "genres": "Thriller|Action|Drama"
+  },
+  "10783": {
+    "budget": 65000000,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Comedy|Crime"
+  },
+  "9955": {
+    "budget": 53000000,
+    "revenue": 118200000,
+    "runtime": 93,
+    "genres": "Comedy"
+  },
+  "11199": {
+    "budget": 60000000,
+    "revenue": 253625427,
+    "runtime": 100,
+    "genres": "Action|Adventure|Comedy"
+  },
+  "5994": {
+    "budget": 60000000,
+    "revenue": 124700000,
+    "runtime": 125,
+    "genres": "Comedy|Drama|Romance|Fantasy"
+  },
+  "13576": {
+    "budget": 60000000,
+    "revenue": 261200000,
+    "runtime": 111,
+    "genres": "Music|Documentary"
+  },
+  "10628": {
+    "budget": 60000000,
+    "revenue": 88900000,
+    "runtime": 89,
+    "genres": "Action|Adventure|Comedy|Family|Crime"
+  },
+  "9302": {
+    "budget": 60000000,
+    "revenue": 100688562,
+    "runtime": 119,
+    "genres": "Drama|Romance"
+  },
+  "10771": {
+    "budget": 60000000,
+    "revenue": 104400000,
+    "runtime": 99,
+    "genres": "Thriller|Action|Comedy|Science Fiction"
+  },
+  "10040": {
+    "budget": 0,
+    "revenue": 101393569,
+    "runtime": 115,
+    "genres": "Action|Comedy"
+  },
+  "87825": {
+    "budget": 60000000,
+    "revenue": 49000000,
+    "runtime": 111,
+    "genres": "Drama|Romance"
+  },
+  "8838": {
+    "budget": 60000000,
+    "revenue": 93100000,
+    "runtime": 111,
+    "genres": "Action|Crime|Drama|Thriller"
+  },
+  "9513": {
+    "budget": 60000000,
+    "revenue": 141700000,
+    "runtime": 86,
+    "genres": "Comedy|Family|Adventure"
+  },
+  "11374": {
+    "budget": 80000000,
+    "revenue": 35242897,
+    "runtime": 123,
+    "genres": "Comedy"
+  },
+  "2312": {
+    "budget": 60000000,
+    "revenue": 13097915,
+    "runtime": 127,
+    "genres": "Adventure|Fantasy|Action|Drama"
+  },
+  "9839": {
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 127,
+    "genres": "Drama|Romance|Adventure|War"
+  },
+  "9713": {
+    "budget": 60000000,
+    "revenue": 12069719,
+    "runtime": 114,
+    "genres": "Drama|Comedy"
+  },
+  "347969": {
+    "budget": 60000000,
+    "revenue": 0,
+    "runtime": 119,
+    "genres": "Western|Comedy|Action|Adventure"
+  },
+  "10603": {
+    "budget": 55000000,
+    "revenue": 174463257,
+    "runtime": 92,
+    "genres": "Adventure|Comedy|Family|Romance"
+  },
+  "11353": {
+    "budget": 55000000,
+    "revenue": 98625775,
+    "runtime": 97,
+    "genres": "Comedy"
+  },
+  "12117": {
+    "budget": 80000000,
+    "revenue": 34105207,
+    "runtime": 124,
+    "genres": "Drama|Thriller"
+  },
+  "13260": {
+    "budget": 55000000,
+    "revenue": 33500000,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "19724": {
+    "budget": 55000000,
+    "revenue": 23000000,
+    "runtime": 107,
+    "genres": "Family|Comedy|Fantasy"
+  },
+  "2841": {
+    "budget": 47000000,
+    "revenue": 0,
+    "runtime": 133,
+    "genres": "Drama|Romance|War"
+  },
+  "39437": {
+    "budget": 80000000,
+    "revenue": 22900000,
+    "runtime": 172,
+    "genres": "Drama|Horror|Thriller|Mystery"
+  },
+  "1950": {
+    "budget": 55000000,
+    "revenue": 8461686,
+    "runtime": 124,
+    "genres": "Drama|Romance"
+  },
+  "11817": {
+    "budget": 52000000,
+    "revenue": 37713879,
+    "runtime": 104,
+    "genres": "Action|Comedy|Fantasy"
+  },
+  "9969": {
+    "budget": 51000000,
+    "revenue": 47231070,
+    "runtime": 93,
+    "genres": "Comedy|Family"
+  },
+  "9441": {
+    "budget": 50000000,
+    "revenue": 159710793,
+    "runtime": 125,
+    "genres": "Drama|Romance|Comedy"
+  },
+  "13673": {
+    "budget": 60000000,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Comedy|Family"
+  },
+  "10393": {
+    "budget": 50000000,
+    "revenue": 50054511,
+    "runtime": 118,
+    "genres": "Comedy"
+  },
+  "6623": {
+    "budget": 50000000,
+    "revenue": 110463140,
+    "runtime": 124,
+    "genres": "Action|Thriller"
+  },
+  "10390": {
+    "budget": 50000000,
+    "revenue": 46112640,
+    "runtime": 138,
+    "genres": "Drama|Romance"
+  },
+  "13498": {
+    "budget": 40000000,
+    "revenue": 21577624,
+    "runtime": 100,
+    "genres": "Comedy|Action"
+  },
+  "9275": {
+    "budget": 55000000,
+    "revenue": 8400000,
+    "runtime": 109,
+    "genres": "Comedy|Crime|Drama|Thriller"
+  },
+  "10416": {
+    "budget": 60000000,
+    "revenue": 14100000,
+    "runtime": 105,
+    "genres": "Comedy|Drama|Romance|Science Fiction"
+  },
+  "96724": {
+    "budget": 40600000,
+    "revenue": 68929150,
+    "runtime": 129,
+    "genres": "Drama|Romance|History"
+  },
+  "53953": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Horror"
+  },
+  "11232": {
+    "budget": 48000000,
+    "revenue": 76019048,
+    "runtime": 118,
+    "genres": "Romance|Comedy|Fantasy"
+  },
+  "7504": {
+    "budget": 0,
+    "revenue": 528972,
+    "runtime": 101,
+    "genres": "Drama|Romance|History"
+  },
+  "593": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 167,
+    "genres": "Drama|Science Fiction|Mystery"
+  },
+  "11467": {
+    "budget": 64400000,
+    "revenue": 138191428,
+    "runtime": 102,
+    "genres": "Comedy|Romance"
+  },
+  "27983": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Comedy"
+  },
+  "15045": {
+    "budget": 45000000,
+    "revenue": 48600000,
+    "runtime": 93,
+    "genres": "Comedy|Family|Fantasy"
+  },
+  "8987": {
+    "budget": 45000000,
+    "revenue": 94216343,
+    "runtime": 111,
+    "genres": "Adventure|Thriller|Drama"
+  },
+  "11359": {
+    "budget": 45000000,
+    "revenue": 35700000,
+    "runtime": 96,
+    "genres": "Adventure|Family|Fantasy"
+  },
+  "4688": {
+    "budget": 45000000,
+    "revenue": 29625761,
+    "runtime": 133,
+    "genres": "Drama|Romance|Fantasy"
+  },
+  "9625": {
+    "budget": 45000000,
+    "revenue": 20350000,
+    "runtime": 92,
+    "genres": "Action|Comedy|Crime|Drama|Thriller"
+  },
+  "9304": {
+    "budget": 45000000,
+    "revenue": 21075014,
+    "runtime": 117,
+    "genres": "Comedy|Fantasy|Science Fiction|Romance"
+  },
+  "21355": {
+    "budget": 57000000,
+    "revenue": 18133495,
+    "runtime": 117,
+    "genres": "Drama|Romance|Western"
+  },
+  "1494": {
+    "budget": 45000000,
+    "revenue": 78568977,
+    "runtime": 114,
+    "genres": "Action|Drama|Fantasy"
+  },
+  "9623": {
+    "budget": 44000000,
+    "revenue": 22754725,
+    "runtime": 118,
+    "genres": "Thriller|Crime"
+  },
+  "10468": {
+    "budget": 43000000,
+    "revenue": 62198945,
+    "runtime": 103,
+    "genres": "Comedy|Drama"
+  },
+  "87826": {
+    "budget": 42000000,
+    "revenue": 73100000,
+    "runtime": 105,
+    "genres": "Comedy|Action|Drama"
+  },
+  "25189": {
+    "budget": 42000000,
+    "revenue": 41083864,
+    "runtime": 126,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "18480": {
+    "budget": 42000000,
+    "revenue": 138805831,
+    "runtime": 83,
+    "genres": "Comedy"
+  },
+  "280391": {
+    "budget": 37580800,
+    "revenue": 16294916,
+    "runtime": 91,
+    "genres": "Adventure|Comedy|Animation"
+  },
+  "10610": {
+    "budget": 38000000,
+    "revenue": 34300000,
+    "runtime": 88,
+    "genres": "Thriller|Fantasy|Action|Comedy"
+  },
+  "9930": {
+    "budget": 40000000,
+    "revenue": 93151591,
+    "runtime": 116,
+    "genres": "Comedy|Crime"
+  },
+  "71864": {
+    "budget": 25000000,
+    "revenue": 56012642,
+    "runtime": 105,
+    "genres": "Fantasy|Drama|Comedy|Family"
+  },
+  "9096": {
+    "budget": 40000000,
+    "revenue": 45500797,
+    "runtime": 106,
+    "genres": "Adventure|Drama|Romance"
+  },
+  "11011": {
+    "budget": 40000000,
+    "revenue": 38087756,
+    "runtime": 94,
+    "genres": "Comedy|Family"
+  },
+  "10641": {
+    "budget": 65000000,
+    "revenue": 90726668,
+    "runtime": 103,
+    "genres": "Drama|Romance"
+  },
+  "10154": {
+    "budget": 75000000,
+    "revenue": 54264342,
+    "runtime": 102,
+    "genres": "Comedy|Crime|Romance"
+  },
+  "8457": {
+    "budget": 40000000,
+    "revenue": 32900000,
+    "runtime": 110,
+    "genres": "Comedy"
+  },
+  "188161": {
+    "budget": 40000000,
+    "revenue": 86400000,
+    "runtime": 116,
+    "genres": "Comedy|Western"
+  },
+  "10391": {
+    "budget": 40000000,
+    "revenue": 40443010,
+    "runtime": 107,
+    "genres": "Drama|Horror|Thriller|Crime"
+  },
+  "12184": {
+    "budget": 35000000,
+    "revenue": 78269970,
+    "runtime": 116,
+    "genres": "Drama|Romance|History"
+  },
+  "15556": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 128,
+    "genres": "Drama|Romance"
+  },
+  "11062": {
+    "budget": 40000000,
+    "revenue": 33440204,
+    "runtime": 111,
+    "genres": "Drama|Thriller"
+  },
+  "6071": {
+    "budget": 40000000,
+    "revenue": 14942422,
+    "runtime": 101,
+    "genres": "Crime|Thriller|Drama"
+  },
+  "11025": {
+    "budget": 30000000,
+    "revenue": 21289826,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "14655": {
+    "budget": 40000000,
+    "revenue": 12300000,
+    "runtime": 103,
+    "genres": "Comedy|Music"
+  },
+  "24575": {
+    "budget": 36000000,
+    "revenue": 7000000,
+    "runtime": 115,
+    "genres": "Action|Adventure|Drama|Thriller"
+  },
+  "4965": {
+    "budget": 40000000,
+    "revenue": 8694320,
+    "runtime": 102,
+    "genres": "Action|Science Fiction|Thriller"
+  },
+  "56715": {
+    "budget": 35000000,
+    "revenue": 16200000,
+    "runtime": 88,
+    "genres": "Comedy|Fantasy|Science Fiction"
+  },
+  "20542": {
+    "budget": 40000000,
+    "revenue": 915840,
+    "runtime": 89,
+    "genres": "Adventure|Fantasy|Animation|Science Fiction|Family"
+  },
+  "5353": {
+    "budget": 15000000,
+    "revenue": 7600000,
+    "runtime": 101,
+    "genres": "Action|Adventure|Thriller|Drama"
+  },
+  "11934": {
+    "budget": 25000000,
+    "revenue": 2800000,
+    "runtime": 111,
+    "genres": "Comedy|Drama|Fantasy"
+  },
+  "14392": {
+    "budget": 40000000,
+    "revenue": 0,
+    "runtime": 126,
+    "genres": "Action|Drama|History"
+  },
+  "19495": {
+    "budget": 25000000,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Action|History|War"
+  },
+  "77459": {
+    "budget": 25000000,
+    "revenue": 26611650,
+    "runtime": 90,
+    "genres": "Adventure|Animation|Comedy|Family|Fantasy"
+  },
+  "26486": {
+    "budget": 0,
+    "revenue": 541330,
+    "runtime": 90,
+    "genres": "Action|Comedy"
+  },
+  "1257": {
+    "budget": 0,
+    "revenue": 69485490,
+    "runtime": 102,
+    "genres": "Romance|Comedy"
+  },
+  "9099": {
+    "budget": 39000000,
+    "revenue": 37956793,
+    "runtime": 90,
+    "genres": "Comedy"
+  },
+  "257932": {
+    "budget": 40000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Fantasy|Animation"
+  },
+  "10833": {
+    "budget": 35000000,
+    "revenue": 57800000,
+    "runtime": 123,
+    "genres": "Comedy|Romance|Crime"
+  },
+  "12312": {
+    "budget": 38000000,
+    "revenue": 24500000,
+    "runtime": 99,
+    "genres": "Comedy|Romance|Family|Drama"
+  },
+  "13503": {
+    "budget": 38000000,
+    "revenue": 763740,
+    "runtime": 90,
+    "genres": "Western|Action|Adventure|Drama|Thriller"
+  },
+  "31908": {
+    "budget": 30000000,
+    "revenue": 13323144,
+    "runtime": 130,
+    "genres": "Drama|History"
+  },
+  "10219": {
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 127,
+    "genres": "Drama|Romance"
+  },
+  "9776": {
+    "budget": 35200000,
+    "revenue": 37788228,
+    "runtime": 95,
+    "genres": "Comedy|Drama"
+  },
+  "45054": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "War|History|Drama"
+  },
+  "10806": {
+    "budget": 35000000,
+    "revenue": 63900000,
+    "runtime": 90,
+    "genres": "Comedy"
+  },
+  "9313": {
+    "budget": 35000000,
+    "revenue": 183000000,
+    "runtime": 132,
+    "genres": "Adventure|Action|Drama"
+  },
+  "9957": {
+    "budget": 33000000,
+    "revenue": 65000000,
+    "runtime": 85,
+    "genres": "Comedy"
+  },
+  "5516": {
+    "budget": 35000000,
+    "revenue": 76700000,
+    "runtime": 104,
+    "genres": "Comedy|Crime|Thriller"
+  },
+  "11469": {
+    "budget": 50000000,
+    "revenue": 33422806,
+    "runtime": 95,
+    "genres": "Comedy|Fantasy|Adventure"
+  },
+  "2447": {
+    "budget": 35000000,
+    "revenue": 46400000,
+    "runtime": 101,
+    "genres": "Drama"
+  },
+  "10410": {
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 140,
+    "genres": "Crime|History|Drama"
+  },
+  "11004": {
+    "budget": 35000000,
+    "revenue": 33426588,
+    "runtime": 107,
+    "genres": "Comedy|Drama"
+  },
+  "118957": {
+    "budget": 33492566,
+    "revenue": 32500000,
+    "runtime": 93,
+    "genres": "Horror"
+  },
+  "18886": {
+    "budget": 35000000,
+    "revenue": 14587732,
+    "runtime": 115,
+    "genres": "Action|War"
+  },
+  "6440": {
+    "budget": 38000000,
+    "revenue": 24690441,
+    "runtime": 111,
+    "genres": "Drama|Romance"
+  },
+  "37498": {
+    "budget": 35000000,
+    "revenue": 44000000,
+    "runtime": 91,
+    "genres": "Action|Crime|Thriller"
+  },
+  "49478": {
+    "budget": 35000000,
+    "revenue": 6537026,
+    "runtime": 103,
+    "genres": "Fantasy|Family|Action"
+  },
+  "9702": {
+    "budget": 35000000,
+    "revenue": 4500000,
+    "runtime": 190,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "9311": {
+    "budget": 35000000,
+    "revenue": 2372903,
+    "runtime": 121,
+    "genres": "Drama|Thriller"
+  },
+  "26843": {
+    "budget": 35000000,
+    "revenue": 1502136,
+    "runtime": 173,
+    "genres": "History|War|Drama"
+  },
+  "45958": {
+    "budget": 0,
+    "revenue": 25147786,
+    "runtime": 148,
+    "genres": "Drama"
+  },
+  "21311": {
+    "budget": 34000000,
+    "revenue": 14400327,
+    "runtime": 114,
+    "genres": "Romance|Drama|Adventure"
+  },
+  "77875": {
+    "budget": 35000000,
+    "revenue": 30962335,
+    "runtime": 106,
+    "genres": "Comedy|Romance"
+  },
+  "202575": {
+    "budget": 34000000,
+    "revenue": 64197205,
+    "runtime": 85,
+    "genres": "Family|Fantasy|Animation|Adventure"
+  },
+  "10685": {
+    "budget": 33000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Mystery|Thriller"
+  },
+  "12596": {
+    "budget": 33000000,
+    "revenue": 8408835,
+    "runtime": 124,
+    "genres": "Comedy|Drama"
+  },
+  "11888": {
+    "budget": 35000000,
+    "revenue": 81000000,
+    "runtime": 99,
+    "genres": "Comedy|Family|Adventure"
+  },
+  "9647": {
+    "budget": 32000000,
+    "revenue": 60300000,
+    "runtime": 101,
+    "genres": "Fantasy|Comedy|Drama"
+  },
+  "12920": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Drama|Family"
+  },
+  "8649": {
+    "budget": 32000000,
+    "revenue": 16797191,
+    "runtime": 121,
+    "genres": "Drama"
+  },
+  "3587": {
+    "budget": 32000000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Fantasy|Comedy|Family"
+  },
+  "32274": {
+    "budget": 36000000,
+    "revenue": 2900000,
+    "runtime": 132,
+    "genres": "Drama"
+  },
+  "5494": {
+    "budget": 32000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Adventure"
+  },
+  "2054": {
+    "budget": 31000000,
+    "revenue": 106300000,
+    "runtime": 143,
+    "genres": "Drama|Music"
+  },
+  "16300": {
+    "budget": 30000000,
+    "revenue": 71186502,
+    "runtime": 87,
+    "genres": "Fantasy|Comedy|Romance"
+  },
+  "9715": {
+    "budget": 30000000,
+    "revenue": 81471882,
+    "runtime": 114,
+    "genres": "Romance|Drama|Comedy"
+  },
+  "227783": {
+    "budget": 42000000,
+    "revenue": 120885527,
+    "runtime": 85,
+    "genres": "Animation|Comedy|Family|Adventure"
+  },
+  "21972": {
+    "budget": 30000000,
+    "revenue": 62300000,
+    "runtime": 99,
+    "genres": "Comedy|Family|Fantasy"
+  },
+  "37056": {
+    "budget": 30000000,
+    "revenue": 82148538,
+    "runtime": 105,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "9918": {
+    "budget": 0,
+    "revenue": 42647449,
+    "runtime": 118,
+    "genres": "Drama|History"
+  },
+  "13156": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Family|Comedy|Drama"
+  },
+  "14034": {
+    "budget": 60000000,
+    "revenue": 38400000,
+    "runtime": 94,
+    "genres": "Action|Comedy|Crime"
+  },
+  "11137": {
+    "budget": 22000000,
+    "revenue": 37600000,
+    "runtime": 111,
+    "genres": "Comedy|Romance"
+  },
+  "239566": {
+    "budget": 30000000,
+    "revenue": 33448971,
+    "runtime": 139,
+    "genres": "Drama|Music|History"
+  },
+  "53113": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 127,
+    "genres": "Drama|Romance"
+  },
+  "4474": {
+    "budget": 0,
+    "revenue": 61108981,
+    "runtime": 95,
+    "genres": "Comedy|Science Fiction|Romance"
+  },
+  "184346": {
+    "budget": 30000000,
+    "revenue": 87937815,
+    "runtime": 118,
+    "genres": "Thriller|Crime|Horror"
+  },
+  "8869": {
+    "budget": 30000000,
+    "revenue": 45900000,
+    "runtime": 99,
+    "genres": "Action|Comedy|Horror|Thriller"
+  },
+  "37707": {
+    "budget": 26000000,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Horror|Science Fiction"
+  },
+  "10350": {
+    "budget": 30000000,
+    "revenue": 11578022,
+    "runtime": 100,
+    "genres": "Science Fiction|Action|Adventure"
+  },
+  "28902": {
+    "budget": 30000000,
+    "revenue": 12017369,
+    "runtime": 100,
+    "genres": "Mystery|Thriller|Horror"
+  },
+  "14164": {
+    "budget": 30000000,
+    "revenue": 58228460,
+    "runtime": 85,
+    "genres": "Action|Adventure|Fantasy|Science Fiction|Thriller"
+  },
+  "76640": {
+    "budget": 30000000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Action|Crime|Thriller"
+  },
+  "311": {
+    "budget": 30000000,
+    "revenue": 5500000,
+    "runtime": 229,
+    "genres": "Drama|Crime"
+  },
+  "102362": {
+    "budget": 30000000,
+    "revenue": 19600000,
+    "runtime": 118,
+    "genres": "Thriller|Action|Crime|Drama"
+  },
+  "11162": {
+    "budget": 30000000,
+    "revenue": 21600000,
+    "runtime": 132,
+    "genres": "Drama|Romance"
+  },
+  "6016": {
+    "budget": 30000000,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "17186": {
+    "budget": 16000000,
+    "revenue": 3344431,
+    "runtime": 80,
+    "genres": "Action|Adventure|Drama|Romance"
+  },
+  "2008": {
+    "budget": 0,
+    "revenue": 30995924,
+    "runtime": 121,
+    "genres": "Fantasy|Drama|Action|Thriller|Romance"
+  },
+  "31203": {
+    "budget": 22700000,
+    "revenue": 62794894,
+    "runtime": 91,
+    "genres": "Comedy|Family"
+  },
+  "265208": {
+    "budget": 30000000,
+    "revenue": 6738764,
+    "runtime": 92,
+    "genres": "Thriller|Crime|Action"
+  },
+  "50135": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Animation|Family|Comedy"
+  },
+  "1874": {
+    "budget": 30000000,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "History|Drama"
+  },
+  "271331": {
+    "budget": 30000000,
+    "revenue": 168832,
+    "runtime": 110,
+    "genres": "Drama"
+  },
+  "215211": {
+    "budget": 30000000,
+    "revenue": 26576000,
+    "runtime": 103,
+    "genres": "Romance|Drama"
+  },
+  "367961": {
+    "budget": 30000000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Fantasy|Adventure|Animation|Family"
+  },
+  "10955": {
+    "budget": 30000000,
+    "revenue": 6200000,
+    "runtime": 110,
+    "genres": "Crime|Thriller"
+  },
+  "9449": {
+    "budget": 29000000,
+    "revenue": 22619699,
+    "runtime": 87,
+    "genres": "Adventure|Fantasy|Action|Comedy|Family"
+  },
+  "11499": {
+    "budget": 25000000,
+    "revenue": 27426335,
+    "runtime": 122,
+    "genres": "Drama|History"
+  },
+  "12506": {
+    "budget": 29000000,
+    "revenue": 25900000,
+    "runtime": 157,
+    "genres": "Drama"
+  },
+  "24071": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "26320": {
+    "budget": 30000000,
+    "revenue": 9975737,
+    "runtime": 120,
+    "genres": "Music|Comedy|Drama"
+  },
+  "10383": {
+    "budget": 50000000,
+    "revenue": 31355910,
+    "runtime": 97,
+    "genres": "Horror|Thriller|Drama"
+  },
+  "9583": {
+    "budget": 27000000,
+    "revenue": 73839240,
+    "runtime": 116,
+    "genres": "Comedy|Drama"
+  },
+  "63574": {
+    "budget": 25000000,
+    "revenue": 31158113,
+    "runtime": 117,
+    "genres": "Comedy|Music"
+  },
+  "12783": {
+    "budget": 17759769,
+    "revenue": 43306325,
+    "runtime": 110,
+    "genres": "Drama|History|Romance"
+  },
+  "5126": {
+    "budget": 27000000,
+    "revenue": 9400000,
+    "runtime": 106,
+    "genres": "Comedy|Drama"
+  },
+  "31582": {
+    "budget": 15000000,
+    "revenue": 4488529,
+    "runtime": 112,
+    "genres": "Comedy|Drama|Crime"
+  },
+  "41488": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama|Thriller"
+  },
+  "37028": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 133,
+    "genres": "Comedy|Drama|Music"
+  },
+  "1901": {
+    "budget": 0,
+    "revenue": 61314565,
+    "runtime": 110,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "11509": {
+    "budget": 23000000,
+    "revenue": 32192570,
+    "runtime": 133,
+    "genres": "Western|Action|Drama"
+  },
+  "31640": {
+    "budget": 26000000,
+    "revenue": 1094668,
+    "runtime": 101,
+    "genres": "Crime|Thriller"
+  },
+  "9092": {
+    "budget": 26000000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Fantasy|Horror"
+  },
+  "2779": {
+    "budget": 33000000,
+    "revenue": 18914307,
+    "runtime": 103,
+    "genres": "Comedy|Crime|Romance"
+  },
+  "316002": {
+    "budget": 26000000,
+    "revenue": 24487,
+    "runtime": 101,
+    "genres": "Romance|Comedy"
+  },
+  "11024": {
+    "budget": 80000000,
+    "revenue": 181466833,
+    "runtime": 93,
+    "genres": "Mystery|Adventure|Comedy"
+  },
+  "208763": {
+    "budget": 26000000,
+    "revenue": 34592118,
+    "runtime": 128,
+    "genres": "Thriller|Adventure|Mystery|Fantasy|Horror|Science Fiction"
+  },
+  "254024": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Thriller"
+  },
+  "175555": {
+    "budget": 25000000,
+    "revenue": 53396635,
+    "runtime": 99,
+    "genres": "Comedy|Drama"
+  },
+  "11676": {
+    "budget": 25000000,
+    "revenue": 44480039,
+    "runtime": 97,
+    "genres": "Comedy|Crime|Action|Adventure"
+  },
+  "9416": {
+    "budget": 25000000,
+    "revenue": 48407611,
+    "runtime": 97,
+    "genres": "Action|Comedy|Crime|Thriller"
+  },
+  "14317": {
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Family|Comedy|Adventure|Animation"
+  },
+  "20694": {
+    "budget": 25000000,
+    "revenue": 55443032,
+    "runtime": 81,
+    "genres": "Family|Comedy|Adventure|Animation|Fantasy"
+  },
+  "10735": {
+    "budget": 20000000,
+    "revenue": 50700000,
+    "runtime": 105,
+    "genres": "Comedy|Romance|Drama|Family"
+  },
+  "21724": {
+    "budget": 25000000,
+    "revenue": 31439140,
+    "runtime": 83,
+    "genres": "Music|Comedy|Action"
+  },
+  "10167": {
+    "budget": 25000000,
+    "revenue": 19233280,
+    "runtime": 98,
+    "genres": "Crime|Action|Thriller"
+  },
+  "18147": {
+    "budget": 26000000,
+    "revenue": 21949234,
+    "runtime": 90,
+    "genres": "Family|Comedy"
+  },
+  "17170": {
+    "budget": 25000000,
+    "revenue": 16118077,
+    "runtime": 107,
+    "genres": "Drama|Romance"
+  },
+  "18975": {
+    "budget": 25000000,
+    "revenue": 15100000,
+    "runtime": 95,
+    "genres": "Family|Fantasy|Adventure|Drama"
+  },
+  "11152": {
+    "budget": 8000000,
+    "revenue": 22818256,
+    "runtime": 91,
+    "genres": "Horror"
+  },
+  "12770": {
+    "budget": 25000000,
+    "revenue": 14277032,
+    "runtime": 85,
+    "genres": "Crime|Comedy|Drama"
+  },
+  "10074": {
+    "budget": 25000000,
+    "revenue": 14353654,
+    "runtime": 88,
+    "genres": "Comedy|Action"
+  },
+  "11954": {
+    "budget": 25000000,
+    "revenue": 11603545,
+    "runtime": 102,
+    "genres": "Horror|Science Fiction|Action|Mystery"
+  },
+  "133698": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Comedy|Romance"
+  },
+  "10655": {
+    "budget": 20000000,
+    "revenue": 10769960,
+    "runtime": 254,
+    "genres": "Drama|History|War"
+  },
+  "21338": {
+    "budget": 25000000,
+    "revenue": 9151887,
+    "runtime": 92,
+    "genres": "Action|Crime|Thriller|Drama"
+  },
+  "19803": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Action"
+  },
+  "20309": {
+    "budget": 25000000,
+    "revenue": 12320393,
+    "runtime": 95,
+    "genres": "Comedy|Romance"
+  },
+  "27360": {
+    "budget": 15000000,
+    "revenue": 4139856,
+    "runtime": 95,
+    "genres": "Comedy|Crime"
+  },
+  "9729": {
+    "budget": 25000000,
+    "revenue": 3487678,
+    "runtime": 107,
+    "genres": "Drama|Mystery|Thriller"
+  },
+  "94352": {
+    "budget": 0,
+    "revenue": 34153101,
+    "runtime": 91,
+    "genres": "Fantasy|Family|Romance"
+  },
+  "49953": {
+    "budget": 0,
+    "revenue": 71594792,
+    "runtime": 88,
+    "genres": "Animation|Family"
+  },
+  "39845": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117,
+    "genres": "Drama"
+  },
+  "25353": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Family|Adventure|Animation"
+  },
+  "38543": {
+    "budget": 25000000,
+    "revenue": 5151023,
+    "runtime": 121,
+    "genres": "Romance|Adventure|Action|History"
+  },
+  "290864": {
+    "budget": 25000000,
+    "revenue": 129115,
+    "runtime": 100,
+    "genres": "Action|Thriller|Crime|Adventure"
+  },
+  "242166": {
+    "budget": 25000000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Action|Thriller"
+  },
+  "10480": {
+    "budget": 24000000,
+    "revenue": 29364989,
+    "runtime": 108,
+    "genres": "Comedy|Crime|Thriller|Drama"
+  },
+  "18828": {
+    "budget": 24000000,
+    "revenue": 31600000,
+    "runtime": 88,
+    "genres": "Adventure|Drama|Action|Comedy|Romance"
+  },
+  "3558": {
+    "budget": 40000000,
+    "revenue": 48350205,
+    "runtime": 127,
+    "genres": "Drama"
+  },
+  "6478": {
+    "budget": 25000000,
+    "revenue": 8400000,
+    "runtime": 118,
+    "genres": "Drama|Music"
+  },
+  "45881": {
+    "budget": 24000000,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Romance|Drama"
+  },
+  "12658": {
+    "budget": 23000000,
+    "revenue": 38689940,
+    "runtime": 97,
+    "genres": "Comedy|Romance"
+  },
+  "19150": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Action|Comedy|Crime"
+  },
+  "9819": {
+    "budget": 23000000,
+    "revenue": 12803305,
+    "runtime": 98,
+    "genres": "Drama"
+  },
+  "13579": {
+    "budget": 23000000,
+    "revenue": 11767866,
+    "runtime": 94,
+    "genres": "Drama|Family|Comedy"
+  },
+  "11156": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|History"
+  },
+  "354110": {
+    "budget": 11000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Western"
+  },
+  "10445": {
+    "budget": 22000000,
+    "revenue": 25842000,
+    "runtime": 131,
+    "genres": "Drama|Romance"
+  },
+  "205588": {
+    "budget": 4000000,
+    "revenue": 9930095,
+    "runtime": 108,
+    "genres": "Thriller"
+  },
+  "10279": {
+    "budget": 22000000,
+    "revenue": 19288130,
+    "runtime": 142,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "19366": {
+    "budget": 22000000,
+    "revenue": 14866444,
+    "runtime": 98,
+    "genres": "Comedy|Music"
+  },
+  "1599": {
+    "budget": 22000000,
+    "revenue": 20094909,
+    "runtime": 106,
+    "genres": "Comedy|Romance"
+  },
+  "30379": {
+    "budget": 22000000,
+    "revenue": 6047691,
+    "runtime": 104,
+    "genres": "Action|Thriller|Horror|Fantasy"
+  },
+  "42586": {
+    "budget": 25000000,
+    "revenue": 3250000,
+    "runtime": 143,
+    "genres": "Music|War|Drama|Comedy|Romance"
+  },
+  "17709": {
+    "budget": 70000000,
+    "revenue": 10000000,
+    "runtime": 77,
+    "genres": "Comedy|Family|Romance"
+  },
+  "7548": {
+    "budget": 11000000,
+    "revenue": 10900000,
+    "runtime": 114,
+    "genres": "Drama|Romance"
+  },
+  "12085": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Comedy|Action|Crime"
+  },
+  "21494": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "Romance|Drama|Comedy"
+  },
+  "17795": {
+    "budget": 21500000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Comedy"
+  },
+  "1073": {
+    "budget": 31000000,
+    "revenue": 41100000,
+    "runtime": 117,
+    "genres": "Crime|Drama|Thriller|Mystery"
+  },
+  "9473": {
+    "budget": 21000000,
+    "revenue": 83137864,
+    "runtime": 81,
+    "genres": "Animation|Comedy"
+  },
+  "44944": {
+    "budget": 21000000,
+    "revenue": 38000000,
+    "runtime": 134,
+    "genres": "Drama"
+  },
+  "49517": {
+    "budget": 30000000,
+    "revenue": 81515369,
+    "runtime": 127,
+    "genres": "Drama|Thriller|Mystery"
+  },
+  "44857": {
+    "budget": 21000000,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "8326": {
+    "budget": 20000000,
+    "revenue": 71406573,
+    "runtime": 117,
+    "genres": "Adventure|Family|Drama|Comedy"
+  },
+  "35690": {
+    "budget": 20000000,
+    "revenue": 89137047,
+    "runtime": 107,
+    "genres": "Drama|Family|Romance"
+  },
+  "103370": {
+    "budget": 20000000,
+    "revenue": 66899242,
+    "runtime": 114,
+    "genres": "Drama|Comedy|Crime"
+  },
+  "1649": {
+    "budget": 20000000,
+    "revenue": 38040268,
+    "runtime": 93,
+    "genres": "Adventure|Comedy|Science Fiction"
+  },
+  "1710": {
+    "budget": 20000000,
+    "revenue": 32000000,
+    "runtime": 124,
+    "genres": "Thriller|Crime|Mystery"
+  },
+  "19904": {
+    "budget": 20000000,
+    "revenue": 31198531,
+    "runtime": 101,
+    "genres": "Horror|Thriller"
+  },
+  "6933": {
+    "budget": 20000000,
+    "revenue": 45847751,
+    "runtime": 87,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "17182": {
+    "budget": 20000000,
+    "revenue": 26877589,
+    "runtime": 101,
+    "genres": "Thriller|Drama"
+  },
+  "14043": {
+    "budget": 20000000,
+    "revenue": 30715465,
+    "runtime": 99,
+    "genres": "Family|Adventure|Crime|Mystery|Comedy"
+  },
+  "9588": {
+    "budget": 0,
+    "revenue": 21413845,
+    "runtime": 119,
+    "genres": "Western"
+  },
+  "10115": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Comedy|Drama"
+  },
+  "9945": {
+    "budget": 20000000,
+    "revenue": 20308772,
+    "runtime": 108,
+    "genres": "Action|Fantasy|Horror"
+  },
+  "13159": {
+    "budget": 20000000,
+    "revenue": 25000167,
+    "runtime": 113,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "13682": {
+    "budget": 20000000,
+    "revenue": 52900000,
+    "runtime": 68,
+    "genres": "Family|Animation|Comedy|Fantasy"
+  },
+  "9089": {
+    "budget": 20000000,
+    "revenue": 22119269,
+    "runtime": 103,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "18357": {
+    "budget": 35000000,
+    "revenue": 18012097,
+    "runtime": 88,
+    "genres": "Adventure|Comedy|Family"
+  },
+  "10642": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy|Romance"
+  },
+  "10710": {
+    "budget": 40000000,
+    "revenue": 14494036,
+    "runtime": 99,
+    "genres": "Comedy"
+  },
+  "11382": {
+    "budget": 20000000,
+    "revenue": 37483747,
+    "runtime": 98,
+    "genres": "Comedy|Crime"
+  },
+  "12797": {
+    "budget": 20000000,
+    "revenue": 27100000,
+    "runtime": 102,
+    "genres": "Comedy|Romance|Drama|Fantasy"
+  },
+  "18885": {
+    "budget": 20000000,
+    "revenue": 11798854,
+    "runtime": 93,
+    "genres": "Family|Adventure|Action|Comedy"
+  },
+  "4953": {
+    "budget": 20000000,
+    "revenue": 30600000,
+    "runtime": 102,
+    "genres": "Drama|Comedy"
+  },
+  "10773": {
+    "budget": 20000000,
+    "revenue": 27876417,
+    "runtime": 103,
+    "genres": "Comedy|Drama"
+  },
+  "10563": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Comedy|Romance"
+  },
+  "5971": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Comedy|Crime"
+  },
+  "9716": {
+    "budget": 20000000,
+    "revenue": 9759200,
+    "runtime": 101,
+    "genres": "Comedy|Romance"
+  },
+  "26171": {
+    "budget": 21000000,
+    "revenue": 16443609,
+    "runtime": 99,
+    "genres": "Drama"
+  },
+  "31117": {
+    "budget": 0,
+    "revenue": 9109322,
+    "runtime": 88,
+    "genres": "Comedy|Family"
+  },
+  "9074": {
+    "budget": 33000000,
+    "revenue": 13485145,
+    "runtime": 83,
+    "genres": "Action|Comedy|Crime"
+  },
+  "24432": {
+    "budget": 20000000,
+    "revenue": 27450189,
+    "runtime": 77,
+    "genres": "Comedy|Family|Animation|Adventure|Fantasy"
+  },
+  "10929": {
+    "budget": 22000000,
+    "revenue": 8564586,
+    "runtime": 100,
+    "genres": "Horror|Drama|Thriller"
+  },
+  "14220": {
+    "budget": 20000000,
+    "revenue": 7000000,
+    "runtime": 85,
+    "genres": "Comedy|Adventure"
+  },
+  "46435": {
+    "budget": 10500000,
+    "revenue": 7804439,
+    "runtime": 160,
+    "genres": "Drama|Music|Comedy|History"
+  },
+  "82684": {
+    "budget": 0,
+    "revenue": 7900000,
+    "runtime": 116,
+    "genres": "Drama"
+  },
+  "10740": {
+    "budget": 20000000,
+    "revenue": 23900000,
+    "runtime": 100,
+    "genres": "Drama|Mystery"
+  },
+  "14582": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Drama|Romance|War|History"
+  },
+  "14914": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 119,
+    "genres": "Drama"
+  },
+  "4960": {
+    "budget": 20000000,
+    "revenue": 4383538,
+    "runtime": 124,
+    "genres": "Drama"
+  },
+  "14652": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Drama|Comedy"
+  },
+  "40932": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124,
+    "genres": "Comedy|Music"
+  },
+  "334531": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 118,
+    "genres": "Drama"
+  },
+  "19457": {
+    "budget": 24000000,
+    "revenue": 889352,
+    "runtime": 115,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "112937": {
+    "budget": 20000000,
+    "revenue": 1065907,
+    "runtime": 87,
+    "genres": "Family|Comedy|Adventure|Fantasy"
+  },
+  "8953": {
+    "budget": 26000000,
+    "revenue": 18900000,
+    "runtime": 126,
+    "genres": "Animation|Fantasy|Science Fiction"
+  },
+  "29078": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Drama"
+  },
+  "46503": {
+    "budget": 0,
+    "revenue": 1754389,
+    "runtime": 101,
+    "genres": "Mystery|Thriller|Romance"
+  },
+  "13688": {
+    "budget": 20000000,
+    "revenue": 47301471,
+    "runtime": 88,
+    "genres": "Comedy|Drama|Family|Fantasy|Science Fiction"
+  },
+  "10353": {
+    "budget": 23030000,
+    "revenue": 66000000,
+    "runtime": 118,
+    "genres": "Comedy|Fantasy"
+  },
+  "11458": {
+    "budget": 20000000,
+    "revenue": 5484302,
+    "runtime": 100,
+    "genres": "Drama|Thriller"
+  },
+  "241257": {
+    "budget": 20000000,
+    "revenue": 17671101,
+    "runtime": 106,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "14538": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Action|History|Drama"
+  },
+  "13250": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "133931": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy|Animation|Adventure|Family"
+  },
+  "280871": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 170,
+    "genres": "Drama|History"
+  },
+  "239897": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Animation"
+  },
+  "184341": {
+    "budget": 20000000,
+    "revenue": 5000000,
+    "runtime": 111,
+    "genres": "Drama"
+  },
+  "334074": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Action|Crime|Mystery|Thriller"
+  },
+  "14202": {
+    "budget": 19400000,
+    "revenue": 26910847,
+    "runtime": 125,
+    "genres": "Romance|Drama"
+  },
+  "6968": {
+    "budget": 19700000,
+    "revenue": 26937355,
+    "runtime": 149,
+    "genres": "Action|Crime|Drama|History|Thriller"
+  },
+  "9378": {
+    "budget": 42000000,
+    "revenue": 68467960,
+    "runtime": 91,
+    "genres": "Horror|Thriller"
+  },
+  "26367": {
+    "budget": 19000000,
+    "revenue": 51733921,
+    "runtime": 113,
+    "genres": "Drama|Comedy"
+  },
+  "385383": {
+    "budget": 27000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Drama"
+  },
+  "16110": {
+    "budget": 19000000,
+    "revenue": 19748009,
+    "runtime": 86,
+    "genres": "Family|Fantasy|Adventure"
+  },
+  "244114": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Action|Thriller|Crime"
+  },
+  "203833": {
+    "budget": 19000000,
+    "revenue": 76586316,
+    "runtime": 131,
+    "genres": "Drama"
+  },
+  "82631": {
+    "budget": 0,
+    "revenue": 5310554,
+    "runtime": 121,
+    "genres": "Drama"
+  },
+  "22479": {
+    "budget": 18000000,
+    "revenue": 0,
+    "runtime": 116,
+    "genres": "Drama|Crime"
+  },
+  "340611": {
+    "budget": 0,
+    "revenue": 3924527,
+    "runtime": 110,
+    "genres": "Drama|Romance"
+  },
+  "244339": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Action|Drama|Thriller"
+  },
+  "9043": {
+    "budget": 19000000,
+    "revenue": 92884429,
+    "runtime": 103,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "8617": {
+    "budget": 20000000,
+    "revenue": 14800000,
+    "runtime": 89,
+    "genres": "Horror|Drama|Mystery"
+  },
+  "10934": {
+    "budget": 18000000,
+    "revenue": 58878723,
+    "runtime": 113,
+    "genres": "Romance|Comedy"
+  },
+  "10535": {
+    "budget": 18000000,
+    "revenue": 26960191,
+    "runtime": 81,
+    "genres": "Comedy|Action"
+  },
+  "16991": {
+    "budget": 18000000,
+    "revenue": 24007324,
+    "runtime": 86,
+    "genres": "Comedy|Crime|Drama"
+  },
+  "11904": {
+    "budget": 18000000,
+    "revenue": 63700000,
+    "runtime": 109,
+    "genres": "Mystery|Adventure|Thriller"
+  },
+  "28665": {
+    "budget": 18000000,
+    "revenue": 77211836,
+    "runtime": 107,
+    "genres": "Music|Comedy|Drama|Romance"
+  },
+  "10569": {
+    "budget": 25000000,
+    "revenue": 29934477,
+    "runtime": 94,
+    "genres": "Comedy|Crime"
+  },
+  "11457": {
+    "budget": 18000000,
+    "revenue": 23903791,
+    "runtime": 125,
+    "genres": "Drama"
+  },
+  "19840": {
+    "budget": 18000000,
+    "revenue": 15300000,
+    "runtime": 102,
+    "genres": "Comedy|Romance"
+  },
+  "22327": {
+    "budget": 18000000,
+    "revenue": 19651093,
+    "runtime": 89,
+    "genres": "Comedy|Romance|Drama"
+  },
+  "22102": {
+    "budget": 18000000,
+    "revenue": 8500000,
+    "runtime": 106,
+    "genres": "Family|Adventure|Comedy"
+  },
+  "18701": {
+    "budget": 18000000,
+    "revenue": 14300000,
+    "runtime": 104,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "36811": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Drama|Romance"
+  },
+  "27380": {
+    "budget": 20000000,
+    "revenue": 5675599,
+    "runtime": 99,
+    "genres": "Adventure|Action|Science Fiction"
+  },
+  "10549": {
+    "budget": 18000000,
+    "revenue": 4700000,
+    "runtime": 242,
+    "genres": "Drama"
+  },
+  "10739": {
+    "budget": 18000000,
+    "revenue": 13585075,
+    "runtime": 108,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "37903": {
+    "budget": 21555450,
+    "revenue": 11652157,
+    "runtime": 144,
+    "genres": "Drama|Mystery"
+  },
+  "396152": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Horror"
+  },
+  "31166": {
+    "budget": 18000000,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Thriller|Mystery"
+  },
+  "69848": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 121,
+    "genres": "Western|Action|Drama|History"
+  },
+  "332411": {
+    "budget": 18000000,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Action|Crime|Drama|Thriller"
+  },
+  "15670": {
+    "budget": 17500000,
+    "revenue": 90508336,
+    "runtime": 102,
+    "genres": "Comedy|Crime|Drama"
+  },
+  "290555": {
+    "budget": 18000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Horror|Action"
+  },
+  "31932": {
+    "budget": 17500000,
+    "revenue": 1277187,
+    "runtime": 116,
+    "genres": "Thriller|Crime"
+  },
+  "1933": {
+    "budget": 17000000,
+    "revenue": 210002906,
+    "runtime": 101,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "21765": {
+    "budget": 17000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Comedy|Family|Science Fiction"
+  },
+  "2752": {
+    "budget": 17000000,
+    "revenue": 95146283,
+    "runtime": 94,
+    "genres": "Comedy|Romance"
+  },
+  "13778": {
+    "budget": 17000000,
+    "revenue": 23769505,
+    "runtime": 98,
+    "genres": "Comedy"
+  },
+  "228203": {
+    "budget": 0,
+    "revenue": 45710059,
+    "runtime": 128,
+    "genres": "Drama|Family"
+  },
+  "41382": {
+    "budget": 17000000,
+    "revenue": 24719879,
+    "runtime": 99,
+    "genres": "Comedy"
+  },
+  "10223": {
+    "budget": 17000000,
+    "revenue": 16316273,
+    "runtime": 121,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "16028": {
+    "budget": 17000000,
+    "revenue": 12840842,
+    "runtime": 90,
+    "genres": "Horror|Thriller"
+  },
+  "15639": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Comedy"
+  },
+  "16112": {
+    "budget": 26000000,
+    "revenue": 11700000,
+    "runtime": 73,
+    "genres": "Family|Comedy|Adventure|Music"
+  },
+  "16988": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Drama"
+  },
+  "24747": {
+    "budget": 20000000,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "58048": {
+    "budget": 17000000,
+    "revenue": 2315683,
+    "runtime": 97,
+    "genres": "Romance|Adventure|Crime|Comedy"
+  },
+  "10800": {
+    "budget": 12000000,
+    "revenue": 12235843,
+    "runtime": 82,
+    "genres": "Animation|Family"
+  },
+  "4032": {
+    "budget": 17000000,
+    "revenue": 59490000,
+    "runtime": 103,
+    "genres": "Comedy|Drama"
+  },
+  "14709": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "10781": {
+    "budget": 16000000,
+    "revenue": 50517763,
+    "runtime": 91,
+    "genres": "Horror|Thriller"
+  },
+  "13908": {
+    "budget": 16000000,
+    "revenue": 43400000,
+    "runtime": 80,
+    "genres": "Comedy|Family|Fantasy|Adventure"
+  },
+  "39180": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Family|Comedy|Action|Crime"
+  },
+  "13491": {
+    "budget": 25000000,
+    "revenue": 0,
+    "runtime": 139,
+    "genres": "Action|Adventure|Drama|Romance"
+  },
+  "10994": {
+    "budget": 16000000,
+    "revenue": 21657770,
+    "runtime": 109,
+    "genres": "Drama"
+  },
+  "30890": {
+    "budget": 16000000,
+    "revenue": 14792779,
+    "runtime": 89,
+    "genres": "Comedy|Drama"
+  },
+  "23169": {
+    "budget": 16000000,
+    "revenue": 56000000,
+    "runtime": 113,
+    "genres": "Drama|Romance"
+  },
+  "17403": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "40160": {
+    "budget": 16000000,
+    "revenue": 12600000,
+    "runtime": 107,
+    "genres": "Science Fiction|Thriller|Action"
+  },
+  "18074": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Comedy|Drama|Music"
+  },
+  "9689": {
+    "budget": 16000000,
+    "revenue": 14569236,
+    "runtime": 112,
+    "genres": "Comedy|Drama"
+  },
+  "18840": {
+    "budget": 16000000,
+    "revenue": 4092682,
+    "runtime": 135,
+    "genres": "Drama|Romance|War"
+  },
+  "12410": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama"
+  },
+  "73935": {
+    "budget": 16000000,
+    "revenue": 92748,
+    "runtime": 93,
+    "genres": "Comedy|Romance|Horror"
+  },
+  "185567": {
+    "budget": 16000000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "35696": {
+    "budget": 15600000,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "16351": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "Drama|War|History"
+  },
+  "38717": {
+    "budget": 13500000,
+    "revenue": 517262,
+    "runtime": 99,
+    "genres": "Adventure|Action|Drama"
+  },
+  "2110": {
+    "budget": 15300000,
+    "revenue": 10366360,
+    "runtime": 94,
+    "genres": "Drama|Action|Comedy"
+  },
+  "9035": {
+    "budget": 15000000,
+    "revenue": 12834936,
+    "runtime": 96,
+    "genres": "Horror|Science Fiction|Comedy"
+  },
+  "12154": {
+    "budget": 11000000,
+    "revenue": 242780960,
+    "runtime": 102,
+    "genres": "Comedy"
+  },
+  "10765": {
+    "budget": 15000000,
+    "revenue": 69800000,
+    "runtime": 110,
+    "genres": "Comedy"
+  },
+  "9587": {
+    "budget": 18000000,
+    "revenue": 94983123,
+    "runtime": 115,
+    "genres": "Drama|Romance"
+  },
+  "15765": {
+    "budget": 15000000,
+    "revenue": 39100000,
+    "runtime": 118,
+    "genres": "Drama|Music|History"
+  },
+  "13411": {
+    "budget": 15000000,
+    "revenue": 34000000,
+    "runtime": 86,
+    "genres": "Comedy|Crime"
+  },
+  "9434": {
+    "budget": 15000000,
+    "revenue": 31100000,
+    "runtime": 107,
+    "genres": "Action|Comedy|Thriller|Romance"
+  },
+  "11531": {
+    "budget": 15000000,
+    "revenue": 47737094,
+    "runtime": 90,
+    "genres": "Horror|Mystery"
+  },
+  "38843": {
+    "budget": 15000000,
+    "revenue": 27293743,
+    "runtime": 103,
+    "genres": "Comedy|Family"
+  },
+  "10413": {
+    "budget": 15000000,
+    "revenue": 64000000,
+    "runtime": 94,
+    "genres": "Action|Drama|Thriller|Romance"
+  },
+  "9793": {
+    "budget": 15000000,
+    "revenue": 37697773,
+    "runtime": 89,
+    "genres": "Horror"
+  },
+  "13768": {
+    "budget": 15000000,
+    "revenue": 19158074,
+    "runtime": 90,
+    "genres": "Drama|Family|Fantasy|Romance"
+  },
+  "18681": {
+    "budget": 15000000,
+    "revenue": 17589705,
+    "runtime": 109,
+    "genres": "Mystery|Thriller"
+  },
+  "13166": {
+    "budget": 14000000,
+    "revenue": 14343028,
+    "runtime": 87,
+    "genres": "Comedy"
+  },
+  "15511": {
+    "budget": 15000000,
+    "revenue": 13247725,
+    "runtime": 85,
+    "genres": "Adventure|Animation|Comedy|Family|Fantasy"
+  },
+  "13816": {
+    "budget": 15000000,
+    "revenue": 12643027,
+    "runtime": 121,
+    "genres": "Crime|Drama|Music"
+  },
+  "10743": {
+    "budget": 15000000,
+    "revenue": 23014206,
+    "runtime": 97,
+    "genres": "Action|Comedy|Thriller|Crime|Mystery"
+  },
+  "37718": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Fantasy|Comedy|Romance"
+  },
+  "15237": {
+    "budget": 15000000,
+    "revenue": 18400000,
+    "runtime": 125,
+    "genres": "Drama|Music"
+  },
+  "9686": {
+    "budget": 15000000,
+    "revenue": 10763469,
+    "runtime": 124,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "17644": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76,
+    "genres": "Family|Fantasy|Adventure"
+  },
+  "13539": {
+    "budget": 15000000,
+    "revenue": 10873148,
+    "runtime": 96,
+    "genres": "Romance|Drama"
+  },
+  "68": {
+    "budget": 15000000,
+    "revenue": 9953708,
+    "runtime": 143,
+    "genres": "Comedy|Science Fiction"
+  },
+  "9026": {
+    "budget": 15000000,
+    "revenue": 17300000,
+    "runtime": 97,
+    "genres": "Comedy|Drama|History|Romance"
+  },
+  "57943": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Romance|Fantasy|TV Movie"
+  },
+  "18276": {
+    "budget": 15000000,
+    "revenue": 8200000,
+    "runtime": 91,
+    "genres": "Family|Adventure"
+  },
+  "72359": {
+    "budget": 15000000,
+    "revenue": 9300000,
+    "runtime": 95,
+    "genres": "Comedy"
+  },
+  "2290": {
+    "budget": 45000000,
+    "revenue": 4956701,
+    "runtime": 120,
+    "genres": "Comedy|Drama|History"
+  },
+  "10075": {
+    "budget": 15000000,
+    "revenue": 6300000,
+    "runtime": 98,
+    "genres": "Drama|Fantasy|Horror|Romance"
+  },
+  "38031": {
+    "budget": 22000000,
+    "revenue": 36015260,
+    "runtime": 98,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "13853": {
+    "budget": 15000000,
+    "revenue": 1953732,
+    "runtime": 98,
+    "genres": "Adventure|Drama"
+  },
+  "31306": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Comedy|Drama"
+  },
+  "331592": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Thriller|Science Fiction"
+  },
+  "47692": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 116,
+    "genres": "Drama|Thriller"
+  },
+  "9104": {
+    "budget": 15000000,
+    "revenue": 2300805,
+    "runtime": 98,
+    "genres": "Drama|Comedy|War|Crime|Thriller"
+  },
+  "11190": {
+    "budget": 0,
+    "revenue": 8482993,
+    "runtime": 111,
+    "genres": "Drama|Mystery"
+  },
+  "75033": {
+    "budget": 15000000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Drama"
+  },
+  "74536": {
+    "budget": 15000000,
+    "revenue": 618425,
+    "runtime": 90,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "15208": {
+    "budget": 17610801,
+    "revenue": 7005528,
+    "runtime": 141,
+    "genres": "Drama|Fantasy"
+  },
+  "262543": {
+    "budget": 7000000,
+    "revenue": 6237990,
+    "runtime": 110,
+    "genres": "Thriller|Science Fiction"
+  },
+  "9288": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Action|Adventure|Fantasy|TV Movie"
+  },
+  "370980": {
+    "budget": 15000000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Drama"
+  },
+  "20083": {
+    "budget": 15000000,
+    "revenue": 5461200,
+    "runtime": 119,
+    "genres": "Drama|Action|Thriller|Crime"
+  },
+  "40880": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124,
+    "genres": "Drama"
+  },
+  "288980": {
+    "budget": 14500000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Drama|Music"
+  },
+  "9396": {
+    "budget": 14000000,
+    "revenue": 239606210,
+    "runtime": 111,
+    "genres": "Adventure|Comedy"
+  },
+  "319910": {
+    "budget": 15000000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Thriller|Mystery|Drama|Crime"
+  },
+  "62008": {
+    "budget": 14000000,
+    "revenue": 35579177,
+    "runtime": 129,
+    "genres": "Drama|Romance"
+  },
+  "13824": {
+    "budget": 14000000,
+    "revenue": 30636478,
+    "runtime": 82,
+    "genres": "Comedy"
+  },
+  "15173": {
+    "budget": 14000000,
+    "revenue": 25615231,
+    "runtime": 82,
+    "genres": "Adventure|Animation|Comedy|Family|Music"
+  },
+  "10008": {
+    "budget": 14000000,
+    "revenue": 29612137,
+    "runtime": 83,
+    "genres": "Horror|Thriller|Mystery"
+  },
+  "2830": {
+    "budget": 14000000,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy|Romance"
+  },
+  "14557": {
+    "budget": 14000000,
+    "revenue": 15100000,
+    "runtime": 96,
+    "genres": "Comedy"
+  },
+  "10280": {
+    "budget": 8000000,
+    "revenue": 15315484,
+    "runtime": 92,
+    "genres": "Fantasy|Horror"
+  },
+  "12637": {
+    "budget": 14000000,
+    "revenue": 16400000,
+    "runtime": 163,
+    "genres": "Romance|Drama|Music"
+  },
+  "34152": {
+    "budget": 14000000,
+    "revenue": 13640000,
+    "runtime": 114,
+    "genres": "Comedy|Drama"
+  },
+  "10741": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "28029": {
+    "budget": 14000000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Drama|Romance"
+  },
+  "1123": {
+    "budget": 14000000,
+    "revenue": 5700000,
+    "runtime": 101,
+    "genres": "Action|Drama|Thriller"
+  },
+  "14033": {
+    "budget": 17000000,
+    "revenue": 4299141,
+    "runtime": 84,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "16899": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Romance"
+  },
+  "41317": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 127,
+    "genres": "Action|Adventure|Drama|Romance"
+  },
+  "245700": {
+    "budget": 0,
+    "revenue": 22179785,
+    "runtime": 150,
+    "genres": "History|Drama"
+  },
+  "37842": {
+    "budget": 0,
+    "revenue": 4834890,
+    "runtime": 104,
+    "genres": "Drama|Romance"
+  },
+  "9045": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 132,
+    "genres": "Drama|History"
+  },
+  "44092": {
+    "budget": 12000000,
+    "revenue": 0,
+    "runtime": 117,
+    "genres": "Action|Adventure"
+  },
+  "16005": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113,
+    "genres": "Comedy|Drama|History"
+  },
+  "23988": {
+    "budget": 365000,
+    "revenue": 1400000,
+    "runtime": 90,
+    "genres": "Comedy|Horror"
+  },
+  "9603": {
+    "budget": 12000000,
+    "revenue": 56631572,
+    "runtime": 97,
+    "genres": "Comedy|Romance"
+  },
+  "25208": {
+    "budget": 13500000,
+    "revenue": 794481,
+    "runtime": 105,
+    "genres": "Drama|Mystery|Thriller"
+  },
+  "10985": {
+    "budget": 13000000,
+    "revenue": 31200000,
+    "runtime": 88,
+    "genres": "Comedy"
+  },
+  "9644": {
+    "budget": 13000000,
+    "revenue": 27979966,
+    "runtime": 84,
+    "genres": "Comedy|Crime|Action"
+  },
+  "15489": {
+    "budget": 13000000,
+    "revenue": 62464731,
+    "runtime": 89,
+    "genres": "Comedy|Family|Adventure"
+  },
+  "15250": {
+    "budget": 13000000,
+    "revenue": 0,
+    "runtime": 117,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "38223": {
+    "budget": 12000000,
+    "revenue": 26600000,
+    "runtime": 101,
+    "genres": "Comedy|Drama|Family"
+  },
+  "25462": {
+    "budget": 13000000,
+    "revenue": 22391450,
+    "runtime": 90,
+    "genres": "Comedy|Romance"
+  },
+  "14577": {
+    "budget": 13000000,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Comedy"
+  },
+  "19052": {
+    "budget": 13000000,
+    "revenue": 5985690,
+    "runtime": 99,
+    "genres": "Drama|Thriller"
+  },
+  "9683": {
+    "budget": 0,
+    "revenue": 5007209,
+    "runtime": 84,
+    "genres": "Comedy|Adventure|Romance"
+  },
+  "2084": {
+    "budget": 13000000,
+    "revenue": 16171098,
+    "runtime": 93,
+    "genres": "Comedy|Crime|Thriller"
+  },
+  "13074": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Drama"
+  },
+  "48217": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Romance|Drama|History"
+  },
+  "44853": {
+    "budget": 20000000,
+    "revenue": 669258,
+    "runtime": 120,
+    "genres": "Drama|Romance|Western"
+  },
+  "407887": {
+    "budget": 12700000,
+    "revenue": 49196532,
+    "runtime": 111,
+    "genres": "History|Drama|War|Action"
+  },
+  "17043": {
+    "budget": 12000000,
+    "revenue": 33082548,
+    "runtime": 90,
+    "genres": "Family|Adventure|Comedy|Action"
+  },
+  "17187": {
+    "budget": 0,
+    "revenue": 16300000,
+    "runtime": 108,
+    "genres": "Drama"
+  },
+  "59457": {
+    "budget": 3100000,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Romance|Science Fiction"
+  },
+  "37414": {
+    "budget": 13000000,
+    "revenue": 4052191,
+    "runtime": 109,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "6217": {
+    "budget": 12500000,
+    "revenue": 21000000,
+    "runtime": 118,
+    "genres": "Fantasy|Horror"
+  },
+  "43867": {
+    "budget": 1250000,
+    "revenue": 5000000,
+    "runtime": 101,
+    "genres": "Romance|Adventure|Drama"
+  },
+  "39780": {
+    "budget": 16000000,
+    "revenue": 1897404,
+    "runtime": 132,
+    "genres": "Drama|Romance"
+  },
+  "11658": {
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 148,
+    "genres": "Action|Adventure|Drama|History|War"
+  },
+  "3179": {
+    "budget": 12000000,
+    "revenue": 63118386,
+    "runtime": 81,
+    "genres": "Animation|Comedy|Adventure|Crime|Music"
+  },
+  "10437": {
+    "budget": 12000000,
+    "revenue": 27300000,
+    "runtime": 90,
+    "genres": "Music|Comedy|Family|Fantasy|Drama"
+  },
+  "284296": {
+    "budget": 12000000,
+    "revenue": 26117471,
+    "runtime": 102,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "11354": {
+    "budget": 12000000,
+    "revenue": 28237488,
+    "runtime": 118,
+    "genres": "Comedy|Drama"
+  },
+  "16241": {
+    "budget": 12000000,
+    "revenue": 19000000,
+    "runtime": 125,
+    "genres": "Drama|Mystery|Science Fiction"
+  },
+  "26710": {
+    "budget": 12000000,
+    "revenue": 18490423,
+    "runtime": 86,
+    "genres": "Comedy"
+  },
+  "9059": {
+    "budget": 13000000,
+    "revenue": 21089146,
+    "runtime": 93,
+    "genres": "Horror|Comedy|Thriller"
+  },
+  "28353": {
+    "budget": 0,
+    "revenue": 13960203,
+    "runtime": 93,
+    "genres": "Comedy|Romance"
+  },
+  "38093": {
+    "budget": 0,
+    "revenue": 21520719,
+    "runtime": 101,
+    "genres": "Romance|Comedy"
+  },
+  "14976": {
+    "budget": 12000000,
+    "revenue": 16937968,
+    "runtime": 113,
+    "genres": "Drama|Romance"
+  },
+  "11027": {
+    "budget": 12000000,
+    "revenue": 12376625,
+    "runtime": 122,
+    "genres": "Crime|Romance|Drama|Thriller"
+  },
+  "3635": {
+    "budget": 10500000,
+    "revenue": 33030115,
+    "runtime": 101,
+    "genres": "Drama|Romance"
+  },
+  "6020": {
+    "budget": 12000000,
+    "revenue": 12517488,
+    "runtime": 93,
+    "genres": "Comedy"
+  },
+  "122906": {
+    "budget": 12000000,
+    "revenue": 87100449,
+    "runtime": 123,
+    "genres": "Drama|Romance|Fantasy"
+  },
+  "9550": {
+    "budget": 15000000,
+    "revenue": 92863945,
+    "runtime": 119,
+    "genres": "Adventure|Drama|Action"
+  },
+  "14299": {
+    "budget": 12000000,
+    "revenue": 8880045,
+    "runtime": 109,
+    "genres": "Drama|History|Music"
+  },
+  "19419": {
+    "budget": 10000000,
+    "revenue": 7201701,
+    "runtime": 81,
+    "genres": "Action|Comedy"
+  },
+  "9466": {
+    "budget": 12000000,
+    "revenue": 5078660,
+    "runtime": 113,
+    "genres": "Drama|Comedy"
+  },
+  "14778": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Comedy|Drama"
+  },
+  "45226": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Adventure|Crime|Thriller"
+  },
+  "10212": {
+    "budget": 12000000,
+    "revenue": 2062405,
+    "runtime": 101,
+    "genres": "Adventure|Western|Horror|Comedy|Drama"
+  },
+  "8669": {
+    "budget": 12000000,
+    "revenue": 5254986,
+    "runtime": 97,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "16857": {
+    "budget": 12000000,
+    "revenue": 2036599,
+    "runtime": 104,
+    "genres": "Comedy|Drama"
+  },
+  "8060": {
+    "budget": 12000000,
+    "revenue": 2888315,
+    "runtime": 90,
+    "genres": "Crime|Drama|Romance"
+  },
+  "15907": {
+    "budget": 12000000,
+    "revenue": 995000,
+    "runtime": 100,
+    "genres": "Adventure|Drama|Family"
+  },
+  "9260": {
+    "budget": 7000000,
+    "revenue": 4402922,
+    "runtime": 86,
+    "genres": "Comedy|Crime"
+  },
+  "61337": {
+    "budget": 12000000,
+    "revenue": 271000,
+    "runtime": 107,
+    "genres": "Comedy|Drama"
+  },
+  "13079": {
+    "budget": 8000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Drama|Mystery"
+  },
+  "89325": {
+    "budget": 0,
+    "revenue": 1157257,
+    "runtime": 103,
+    "genres": "Drama|Romance|Comedy"
+  },
+  "4170": {
+    "budget": 12000000,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Thriller"
+  },
+  "41508": {
+    "budget": 250000,
+    "revenue": 2512009,
+    "runtime": 140,
+    "genres": "War|Drama"
+  },
+  "12479": {
+    "budget": 12000000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Comedy|Drama"
+  },
+  "44555": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy|Drama|Thriller"
+  },
+  "10133": {
+    "budget": 7500000,
+    "revenue": 898365,
+    "runtime": 96,
+    "genres": "Thriller|Science Fiction"
+  },
+  "26466": {
+    "budget": 12000000,
+    "revenue": 1594955,
+    "runtime": 99,
+    "genres": "Horror"
+  },
+  "345003": {
+    "budget": 1200000,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Drama"
+  },
+  "357837": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Drama|Romance|Music"
+  },
+  "13889": {
+    "budget": 8000000,
+    "revenue": 1900000,
+    "runtime": 134,
+    "genres": "Drama|Comedy"
+  },
+  "18530": {
+    "budget": 11500000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Drama|Mystery|Thriller"
+  },
+  "358451": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 130,
+    "genres": "Drama|History|Romance"
+  },
+  "206563": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Adventure|Crime|Drama|Thriller|Mystery"
+  },
+  "11887": {
+    "budget": 11000000,
+    "revenue": 252909177,
+    "runtime": 117,
+    "genres": "Comedy|Drama|Family|Music"
+  },
+  "256092": {
+    "budget": 12000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Action|Comedy|Crime"
+  },
+  "10748": {
+    "budget": 14000000,
+    "revenue": 29066483,
+    "runtime": 101,
+    "genres": "Comedy"
+  },
+  "11184": {
+    "budget": 11000000,
+    "revenue": 17050017,
+    "runtime": 118,
+    "genres": "Drama"
+  },
+  "766": {
+    "budget": 11000000,
+    "revenue": 21502976,
+    "runtime": 81,
+    "genres": "Fantasy|Horror|Comedy"
+  },
+  "11109": {
+    "budget": 11000000,
+    "revenue": 13300000,
+    "runtime": 125,
+    "genres": "Drama"
+  },
+  "9027": {
+    "budget": 0,
+    "revenue": 24128678,
+    "runtime": 91,
+    "genres": "Comedy|Romance|Drama"
+  },
+  "11065": {
+    "budget": 0,
+    "revenue": 16017403,
+    "runtime": 95,
+    "genres": "Drama|Romance|Thriller"
+  },
+  "13994": {
+    "budget": 0,
+    "revenue": 2945242,
+    "runtime": 105,
+    "genres": "Comedy|Music|Romance"
+  },
+  "1590": {
+    "budget": 11000000,
+    "revenue": 6191746,
+    "runtime": 104,
+    "genres": "Drama"
+  },
+  "62728": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "45138": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama|Action|Crime"
+  },
+  "80271": {
+    "budget": 11000000,
+    "revenue": 10500000,
+    "runtime": 97,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "4657": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 123,
+    "genres": "Crime|Drama|Mystery|Thriller"
+  },
+  "190847": {
+    "budget": 10600000,
+    "revenue": 24084,
+    "runtime": 98,
+    "genres": "Science Fiction|Thriller|Horror"
+  },
+  "11056": {
+    "budget": 10600000,
+    "revenue": 33988736,
+    "runtime": 88,
+    "genres": "Horror"
+  },
+  "25379": {
+    "budget": 12500000,
+    "revenue": 1775619,
+    "runtime": 97,
+    "genres": "Adventure|Drama"
+  },
+  "58051": {
+    "budget": 3500000,
+    "revenue": 15000000,
+    "runtime": 135,
+    "genres": "Comedy|Romance"
+  },
+  "14877": {
+    "budget": 11000000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|History|Western"
+  },
+  "304410": {
+    "budget": 11000000,
+    "revenue": 72775689,
+    "runtime": 105,
+    "genres": "Comedy|Music|Drama"
+  },
+  "373314": {
+    "budget": 11000000,
+    "revenue": 2049761,
+    "runtime": 106,
+    "genres": "Drama|Thriller"
+  },
+  "9034": {
+    "budget": 10000000,
+    "revenue": 38068353,
+    "runtime": 98,
+    "genres": "Comedy|Drama"
+  },
+  "10984": {
+    "budget": 10000000,
+    "revenue": 16300000,
+    "runtime": 96,
+    "genres": "Horror|Thriller"
+  },
+  "9526": {
+    "budget": 10000000,
+    "revenue": 25978375,
+    "runtime": 105,
+    "genres": "Drama|Comedy|Music"
+  },
+  "39349": {
+    "budget": 10000000,
+    "revenue": 18225518,
+    "runtime": 123,
+    "genres": "Drama|Action|Thriller|Crime"
+  },
+  "15983": {
+    "budget": 12000000,
+    "revenue": 17536256,
+    "runtime": 107,
+    "genres": "Action|Thriller"
+  },
+  "14544": {
+    "budget": 10000000,
+    "revenue": 17000000,
+    "runtime": 112,
+    "genres": "Comedy|Drama|Family"
+  },
+  "8359": {
+    "budget": 10000000,
+    "revenue": 17700000,
+    "runtime": 100,
+    "genres": "Family|Comedy|Drama|Mystery"
+  },
+  "15648": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Comedy|Drama|Family|Romance"
+  },
+  "11891": {
+    "budget": 10000000,
+    "revenue": 17000000,
+    "runtime": 81,
+    "genres": "Comedy|Action"
+  },
+  "164558": {
+    "budget": 10000000,
+    "revenue": 68500000,
+    "runtime": 92,
+    "genres": "Documentary|Music"
+  },
+  "19905": {
+    "budget": 10000000,
+    "revenue": 15300000,
+    "runtime": 89,
+    "genres": "Comedy"
+  },
+  "17710": {
+    "budget": 3000000,
+    "revenue": 15249308,
+    "runtime": 76,
+    "genres": "Animation|Comedy|Family|Adventure|Drama|Thriller"
+  },
+  "27322": {
+    "budget": 10000000,
+    "revenue": 12782749,
+    "runtime": 109,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "14120": {
+    "budget": 10000000,
+    "revenue": 12128105,
+    "runtime": 108,
+    "genres": "Adventure|Drama|History"
+  },
+  "10050": {
+    "budget": 22000000,
+    "revenue": 19900366,
+    "runtime": 87,
+    "genres": "Comedy|Romance"
+  },
+  "9893": {
+    "budget": 10000000,
+    "revenue": 10143022,
+    "runtime": 89,
+    "genres": "Family|Comedy"
+  },
+  "3472": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "13160": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy"
+  },
+  "52067": {
+    "budget": 0,
+    "revenue": 6861102,
+    "runtime": 87,
+    "genres": "Comedy"
+  },
+  "134597": {
+    "budget": 0,
+    "revenue": 6842058,
+    "runtime": 82,
+    "genres": "Horror|Thriller"
+  },
+  "24034": {
+    "budget": 10000000,
+    "revenue": 6491969,
+    "runtime": 74,
+    "genres": "Animation|Family|Music|Comedy|Drama"
+  },
+  "404": {
+    "budget": 10000000,
+    "revenue": 6418028,
+    "runtime": 112,
+    "genres": "Drama|History"
+  },
+  "13201": {
+    "budget": 10000000,
+    "revenue": 6282446,
+    "runtime": 96,
+    "genres": "Action|Crime|Drama"
+  },
+  "34043": {
+    "budget": 16000000,
+    "revenue": 4500000,
+    "runtime": 81,
+    "genres": "Comedy|Family|Romance"
+  },
+  "41110": {
+    "budget": 3600000,
+    "revenue": 12014663,
+    "runtime": 120,
+    "genres": "Drama|Romance"
+  },
+  "134371": {
+    "budget": 10000000,
+    "revenue": 3336053,
+    "runtime": 112,
+    "genres": "Drama|Science Fiction|Mystery"
+  },
+  "27342": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Action|Thriller"
+  },
+  "13689": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "67911": {
+    "budget": 10000000,
+    "revenue": 2500000,
+    "runtime": 97,
+    "genres": "Comedy"
+  },
+  "24664": {
+    "budget": 10000000,
+    "revenue": 2463650,
+    "runtime": 136,
+    "genres": "Comedy|Drama"
+  },
+  "9613": {
+    "budget": 10000000,
+    "revenue": 5809240,
+    "runtime": 98,
+    "genres": "Drama|Mystery|Thriller"
+  },
+  "29339": {
+    "budget": 10000000,
+    "revenue": 3651462,
+    "runtime": 132,
+    "genres": "Adventure|Drama"
+  },
+  "32740": {
+    "budget": 5000000,
+    "revenue": 16000000,
+    "runtime": 174,
+    "genres": "Action|Science Fiction"
+  },
+  "14195": {
+    "budget": 10000000,
+    "revenue": 1961544,
+    "runtime": 88,
+    "genres": "Comedy|Crime|Action"
+  },
+  "15394": {
+    "budget": 10000000,
+    "revenue": 1271244,
+    "runtime": 104,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "10071": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy"
+  },
+  "91076": {
+    "budget": 0,
+    "revenue": 840702,
+    "runtime": 119,
+    "genres": "Drama|Comedy"
+  },
+  "11770": {
+    "budget": 10000005,
+    "revenue": 42776760,
+    "runtime": 113,
+    "genres": "Action|Comedy"
+  },
+  "12703": {
+    "budget": 100000,
+    "revenue": 365734,
+    "runtime": 93,
+    "genres": "Drama"
+  },
+  "64559": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Comedy|Crime|Thriller"
+  },
+  "222649": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Drama"
+  },
+  "115872": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Romance|Drama"
+  },
+  "25350": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Comedy|Drama"
+  },
+  "10034": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Action|Crime|Comedy"
+  },
+  "5072": {
+    "budget": 0,
+    "revenue": 5515163,
+    "runtime": 96,
+    "genres": "Horror|Comedy|Thriller"
+  },
+  "18191": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Drama|Thriller"
+  },
+  "31007": {
+    "budget": 0,
+    "revenue": 361960,
+    "runtime": 110,
+    "genres": "Drama"
+  },
+  "11546": {
+    "budget": 10000000,
+    "revenue": 126247,
+    "runtime": 83,
+    "genres": "Comedy|Crime"
+  },
+  "41894": {
+    "budget": 10000000,
+    "revenue": 82739,
+    "runtime": 128,
+    "genres": "Drama|Crime"
+  },
+  "184374": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 125,
+    "genres": "War|History|Drama"
+  },
+  "268171": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "24663": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "39037": {
+    "budget": 10000000,
+    "revenue": 100688,
+    "runtime": 90,
+    "genres": "Comedy|Romance"
+  },
+  "22805": {
+    "budget": 5000000,
+    "revenue": 726936,
+    "runtime": 90,
+    "genres": "Comedy|Drama"
+  },
+  "39055": {
+    "budget": 0,
+    "revenue": 140987,
+    "runtime": 94,
+    "genres": "Drama|Family"
+  },
+  "15017": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Romance"
+  },
+  "12245": {
+    "budget": 14100000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Crime|Mystery|Thriller"
+  },
+  "49787": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Drama|Horror|Thriller"
+  },
+  "16358": {
+    "budget": 6500000,
+    "revenue": 89781,
+    "runtime": 91,
+    "genres": "Comedy|Drama"
+  },
+  "7006": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Horror|Thriller"
+  },
+  "66767": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Music|Drama"
+  },
+  "17622": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 117,
+    "genres": "Action|Thriller"
+  },
+  "283671": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Family|Animation|Adventure"
+  },
+  "18516": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Drama|War"
+  },
+  "42057": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Comedy|Romance"
+  },
+  "17577": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Horror|Thriller|Science Fiction"
+  },
+  "14608": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 116,
+    "genres": "Drama|Romance"
+  },
+  "34417": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Comedy"
+  },
+  "15067": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 130,
+    "genres": "Action|Adventure|Comedy|Western"
+  },
+  "43090": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Drama|Action|Comedy|Western"
+  },
+  "250066": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Action"
+  },
+  "208869": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Drama|Action|Comedy|Crime"
+  },
+  "106845": {
+    "budget": 9500000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Horror|Science Fiction"
+  },
+  "11827": {
+    "budget": 9300000,
+    "revenue": 20118654,
+    "runtime": 90,
+    "genres": "Animation|Science Fiction|Adventure|Fantasy|Music"
+  },
+  "22820": {
+    "budget": 10000000,
+    "revenue": 118492,
+    "runtime": 89,
+    "genres": "Comedy|Science Fiction|Drama"
+  },
+  "31174": {
+    "budget": 0,
+    "revenue": 2748518,
+    "runtime": 104,
+    "genres": "Drama|War"
+  },
+  "244316": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Action|Horror|Thriller"
+  },
+  "37737": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 123,
+    "genres": "Drama|Action|Romance"
+  },
+  "66125": {
+    "budget": 5,
+    "revenue": 13,
+    "runtime": 92,
+    "genres": "Drama|Comedy|Family"
+  },
+  "132316": {
+    "budget": 6087315,
+    "revenue": 27942181,
+    "runtime": 176,
+    "genres": "Drama|Romance"
+  },
+  "68684": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Horror|Comedy|Science Fiction"
+  },
+  "10472": {
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "6521": {
+    "budget": 20000000,
+    "revenue": 22428990,
+    "runtime": 126,
+    "genres": "Drama|Thriller"
+  },
+  "16428": {
+    "budget": 10000000,
+    "revenue": 12500000,
+    "runtime": 85,
+    "genres": "Comedy|Romance"
+  },
+  "10705": {
+    "budget": 9000000,
+    "revenue": 10161211,
+    "runtime": 137,
+    "genres": "War|Drama|History"
+  },
+  "8272": {
+    "budget": 0,
+    "revenue": 10653221,
+    "runtime": 114,
+    "genres": "Drama|Comedy"
+  },
+  "24621": {
+    "budget": 0,
+    "revenue": 6126237,
+    "runtime": 80,
+    "genres": "Comedy|Romance"
+  },
+  "14624": {
+    "budget": 9000000,
+    "revenue": 3438735,
+    "runtime": 114,
+    "genres": "Romance|Drama|Family"
+  },
+  "10179": {
+    "budget": 9000000,
+    "revenue": 14250000,
+    "runtime": 94,
+    "genres": "Science Fiction|Action|Adventure|Comedy"
+  },
+  "14057": {
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "12621": {
+    "budget": 9000000,
+    "revenue": 4886216,
+    "runtime": 92,
+    "genres": "Comedy|Music"
+  },
+  "1808": {
+    "budget": 9000000,
+    "revenue": 4300000,
+    "runtime": 123,
+    "genres": "Drama|Music"
+  },
+  "293670": {
+    "budget": 10951000,
+    "revenue": 49851770,
+    "runtime": 156,
+    "genres": "Horror|Mystery"
+  },
+  "27329": {
+    "budget": 11000000,
+    "revenue": 14000000,
+    "runtime": 185,
+    "genres": "History|War|Drama|Action"
+  },
+  "29514": {
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Horror"
+  },
+  "12454": {
+    "budget": 9000000,
+    "revenue": 2847049,
+    "runtime": 128,
+    "genres": "Drama"
+  },
+  "8883": {
+    "budget": 6500000,
+    "revenue": 10040589,
+    "runtime": 130,
+    "genres": "Drama|History|War"
+  },
+  "291081": {
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Thriller|Mystery|Crime|Drama|TV Movie"
+  },
+  "41248": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Drama|Romance"
+  },
+  "25968": {
+    "budget": 9000000,
+    "revenue": 1709178,
+    "runtime": 103,
+    "genres": "Drama|Romance"
+  },
+  "52010": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76,
+    "genres": "Animation|Science Fiction"
+  },
+  "11588": {
+    "budget": 8800000,
+    "revenue": 72962,
+    "runtime": 90,
+    "genres": "Thriller|Mystery|Drama"
+  },
+  "43418": {
+    "budget": 7347125,
+    "revenue": 0,
+    "runtime": 122,
+    "genres": "Drama|History|War"
+  },
+  "71157": {
+    "budget": 0,
+    "revenue": 20374201,
+    "runtime": 123,
+    "genres": "Drama|Crime"
+  },
+  "327833": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Thriller|Action|Drama|Crime"
+  },
+  "71805": {
+    "budget": 8500000,
+    "revenue": 15024232,
+    "runtime": 92,
+    "genres": "Adventure|Family"
+  },
+  "9451": {
+    "budget": 25000000,
+    "revenue": 14902041,
+    "runtime": 103,
+    "genres": "Comedy|Drama"
+  },
+  "150202": {
+    "budget": 8000000,
+    "revenue": 5127434,
+    "runtime": 101,
+    "genres": "Horror|Drama|Thriller"
+  },
+  "19644": {
+    "budget": 8000000,
+    "revenue": 0,
+    "runtime": 135,
+    "genres": "Action|Drama"
+  },
+  "20360": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 131,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "14353": {
+    "budget": 8500000,
+    "revenue": 198883,
+    "runtime": 98,
+    "genres": "Horror|Science Fiction|Music"
+  },
+  "11818": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 122,
+    "genres": "Action|War|Drama"
+  },
+  "11176": {
+    "budget": 8000000,
+    "revenue": 75161953,
+    "runtime": 95,
+    "genres": "Family|Comedy|Adventure"
+  },
+  "14114": {
+    "budget": 8000000,
+    "revenue": 50576805,
+    "runtime": 95,
+    "genres": "Music|Drama"
+  },
+  "28121": {
+    "budget": 8000000,
+    "revenue": 34746109,
+    "runtime": 108,
+    "genres": "Comedy|Crime|Romance"
+  },
+  "10885": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "16471": {
+    "budget": 8000000,
+    "revenue": 26154211,
+    "runtime": 89,
+    "genres": "Comedy|Science Fiction|Romance"
+  },
+  "385736": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Drama|Crime|Action"
+  },
+  "11971": {
+    "budget": 11000000,
+    "revenue": 22600000,
+    "runtime": 111,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "42819": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Drama"
+  },
+  "209263": {
+    "budget": 0,
+    "revenue": 25288872,
+    "runtime": 93,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "59930": {
+    "budget": 0,
+    "revenue": 8880705,
+    "runtime": 110,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "23570": {
+    "budget": 8000000,
+    "revenue": 5656388,
+    "runtime": 97,
+    "genres": "Comedy|Romance"
+  },
+  "19489": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Comedy"
+  },
+  "14629": {
+    "budget": 8000000,
+    "revenue": 10194274,
+    "runtime": 92,
+    "genres": "Comedy|Drama|Romance|Fantasy"
+  },
+  "8293": {
+    "budget": 8000000,
+    "revenue": 26126837,
+    "runtime": 142,
+    "genres": "Drama|Romance"
+  },
+  "1958": {
+    "budget": 8000000,
+    "revenue": 42400000,
+    "runtime": 111,
+    "genres": "Comedy|Thriller|Mystery"
+  },
+  "26618": {
+    "budget": 8000000,
+    "revenue": 1800000,
+    "runtime": 104,
+    "genres": "Crime|Comedy|Drama|Romance"
+  },
+  "46138": {
+    "budget": 7200000,
+    "revenue": 12629471,
+    "runtime": 113,
+    "genres": "Comedy|Drama|History"
+  },
+  "45791": {
+    "budget": 0,
+    "revenue": 92,
+    "runtime": 92,
+    "genres": "Drama"
+  },
+  "110683": {
+    "budget": 15000000,
+    "revenue": 724912,
+    "runtime": 98,
+    "genres": "Drama|Adventure"
+  },
+  "26963": {
+    "budget": 8000000,
+    "revenue": 1803412,
+    "runtime": 79,
+    "genres": "Animation|Family|Fantasy"
+  },
+  "30141": {
+    "budget": 8000000,
+    "revenue": 435625,
+    "runtime": 109,
+    "genres": "Comedy|Music|Mystery|Crime"
+  },
+  "17044": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Drama|Romance|War"
+  },
+  "12183": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "12192": {
+    "budget": 8000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Crime|Horror|Thriller"
+  },
+  "10913": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Comedy|Crime|Drama|Romance"
+  },
+  "256687": {
+    "budget": 8000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Action|Drama|Thriller"
+  },
+  "220488": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Comedy|Romance"
+  },
+  "1544": {
+    "budget": 1000000,
+    "revenue": 2500000,
+    "runtime": 93,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "374461": {
+    "budget": 8000000,
+    "revenue": 685780,
+    "runtime": 104,
+    "genres": "Drama"
+  },
+  "182873": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Drama"
+  },
+  "21512": {
+    "budget": 0,
+    "revenue": 882290,
+    "runtime": 100,
+    "genres": "Action|Adventure|Science Fiction"
+  },
+  "389425": {
+    "budget": 8000000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Action|Crime|Thriller"
+  },
+  "29461": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Comedy|Drama"
+  },
+  "283708": {
+    "budget": 7700000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|War"
+  },
+  "11308": {
+    "budget": 7500000,
+    "revenue": 5100000,
+    "runtime": 110,
+    "genres": "Comedy|Drama"
+  },
+  "15365": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Comedy|Action|Adventure|Crime"
+  },
+  "24356": {
+    "budget": 0,
+    "revenue": 546106,
+    "runtime": 112,
+    "genres": "Drama|Music"
+  },
+  "55903": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "2577": {
+    "budget": 7500000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Drama|Science Fiction|Thriller"
+  },
+  "103903": {
+    "budget": 7500000,
+    "revenue": 21276,
+    "runtime": 101,
+    "genres": "Comedy"
+  },
+  "312113": {
+    "budget": 12500000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama|Action|Crime"
+  },
+  "14165": {
+    "budget": 6000000,
+    "revenue": 15242548,
+    "runtime": 153,
+    "genres": "Family|Comedy|Romance"
+  },
+  "2011": {
+    "budget": 7300000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Animation|Drama"
+  },
+  "45650": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Thriller|Adventure|Fantasy"
+  },
+  "29064": {
+    "budget": 7200000,
+    "revenue": 12614346,
+    "runtime": 100,
+    "genres": "Thriller|Fantasy|Drama"
+  },
+  "326284": {
+    "budget": 7500000,
+    "revenue": 163080,
+    "runtime": 104,
+    "genres": "Action"
+  },
+  "10727": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Thriller|Horror"
+  },
+  "17908": {
+    "budget": 6000000,
+    "revenue": 35547761,
+    "runtime": 95,
+    "genres": "Comedy|Drama|Family"
+  },
+  "8390": {
+    "budget": 0,
+    "revenue": 55447968,
+    "runtime": 112,
+    "genres": "Comedy|Romance"
+  },
+  "9392": {
+    "budget": 3500000,
+    "revenue": 57130027,
+    "runtime": 100,
+    "genres": "Adventure|Horror"
+  },
+  "24977": {
+    "budget": 0,
+    "revenue": 21268532,
+    "runtime": 46,
+    "genres": "Documentary"
+  },
+  "1696": {
+    "budget": 7000000,
+    "revenue": 20901859,
+    "runtime": 111,
+    "genres": "Drama|Horror|Crime"
+  },
+  "77156": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Horror|Action|Thriller"
+  },
+  "44718": {
+    "budget": 700000,
+    "revenue": 10522511,
+    "runtime": 103,
+    "genres": "Drama|Mystery|Comedy"
+  },
+  "11342": {
+    "budget": 7000000,
+    "revenue": 9094451,
+    "runtime": 103,
+    "genres": "Horror|Fantasy|Action"
+  },
+  "34653": {
+    "budget": 7000000,
+    "revenue": 25000000,
+    "runtime": 100,
+    "genres": "Drama|Romance"
+  },
+  "57825": {
+    "budget": 7000000,
+    "revenue": 24700000,
+    "runtime": 112,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "9555": {
+    "budget": 6000000,
+    "revenue": 16200000,
+    "runtime": 94,
+    "genres": "Adventure|Drama|History"
+  },
+  "15581": {
+    "budget": 7000000,
+    "revenue": 5700000,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "12400": {
+    "budget": 7000000,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Drama"
+  },
+  "39053": {
+    "budget": 7000000,
+    "revenue": 9900000,
+    "runtime": 91,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "104896": {
+    "budget": 7000000,
+    "revenue": 2165637,
+    "runtime": 96,
+    "genres": "Drama|Family"
+  },
+  "12271": {
+    "budget": 7000000,
+    "revenue": 3572632,
+    "runtime": 91,
+    "genres": "Drama|History"
+  },
+  "226354": {
+    "budget": 0,
+    "revenue": 2476775,
+    "runtime": 100,
+    "genres": "Drama|Family"
+  },
+  "48620": {
+    "budget": 7000000,
+    "revenue": 1891936,
+    "runtime": 102,
+    "genres": "Drama"
+  },
+  "37080": {
+    "budget": 7000000,
+    "revenue": 4000000,
+    "runtime": 125,
+    "genres": "Drama|Romance"
+  },
+  "25388": {
+    "budget": 8000000,
+    "revenue": 1000000,
+    "runtime": 107,
+    "genres": "Drama|Adventure|War"
+  },
+  "11687": {
+    "budget": 9500000,
+    "revenue": 98800000,
+    "runtime": 107,
+    "genres": "Fantasy|Comedy"
+  },
+  "39210": {
+    "budget": 8000000,
+    "revenue": 14788642,
+    "runtime": 98,
+    "genres": "Drama"
+  },
+  "31535": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy"
+  },
+  "192134": {
+    "budget": 7000000,
+    "revenue": 1300000,
+    "runtime": 93,
+    "genres": "Comedy|Crime|Drama"
+  },
+  "1956": {
+    "budget": 3500000,
+    "revenue": 255000,
+    "runtime": 103,
+    "genres": "Drama|Adventure|Mystery"
+  },
+  "24985": {
+    "budget": 7000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama|Romance"
+  },
+  "15013": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "277519": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Crime|Thriller"
+  },
+  "78381": {
+    "budget": 7000000,
+    "revenue": 647839,
+    "runtime": 88,
+    "genres": "Mystery|Fantasy|Horror"
+  },
+  "294512": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 53,
+    "genres": "Family|Animation|Comedy|Adventure"
+  },
+  "8879": {
+    "budget": 6900000,
+    "revenue": 41400000,
+    "runtime": 115,
+    "genres": "Western|Drama"
+  },
+  "13649": {
+    "budget": 7000000,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Comedy|Family|TV Movie|Romance"
+  },
+  "325373": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama|Romance"
+  },
+  "334527": {
+    "budget": 7000000,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Thriller|Crime|Drama"
+  },
+  "2211": {
+    "budget": 0,
+    "revenue": 927107,
+    "runtime": 125,
+    "genres": "Drama|History|Romance"
+  },
+  "13919": {
+    "budget": 6800000,
+    "revenue": 351401,
+    "runtime": 108,
+    "genres": "Comedy|Drama"
+  },
+  "14576": {
+    "budget": 6800000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Action|Thriller|Crime"
+  },
+  "38970": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "41009": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Action|Comedy|Crime|Drama"
+  },
+  "7347": {
+    "budget": 4000000,
+    "revenue": 14759148,
+    "runtime": 115,
+    "genres": "Drama|Action|Crime"
+  },
+  "25113": {
+    "budget": 0,
+    "revenue": 50427646,
+    "runtime": 107,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "34723": {
+    "budget": 6500000,
+    "revenue": 24103594,
+    "runtime": 108,
+    "genres": "Adventure|Drama|Family"
+  },
+  "10496": {
+    "budget": 5250000,
+    "revenue": 10200000,
+    "runtime": 91,
+    "genres": "Horror|Thriller|Science Fiction"
+  },
+  "1591": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 140,
+    "genres": "Drama"
+  },
+  "26665": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113,
+    "genres": "Drama|Comedy"
+  },
+  "62255": {
+    "budget": 6500000,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Action|Drama|Thriller|Adventure"
+  },
+  "5708": {
+    "budget": 5000000,
+    "revenue": 8200000,
+    "runtime": 121,
+    "genres": "Drama"
+  },
+  "21641": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Drama|History"
+  },
+  "16619": {
+    "budget": 6000000,
+    "revenue": 54766923,
+    "runtime": 124,
+    "genres": "Drama"
+  },
+  "20322": {
+    "budget": 6000000,
+    "revenue": 27900000,
+    "runtime": 106,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "13785": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy"
+  },
+  "36739": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 121,
+    "genres": "Comedy|Drama|Music"
+  },
+  "11191": {
+    "budget": 6000000,
+    "revenue": 12793213,
+    "runtime": 104,
+    "genres": "Romance|Drama|Comedy"
+  },
+  "12509": {
+    "budget": 6000000,
+    "revenue": 10994533,
+    "runtime": 132,
+    "genres": "Drama|History"
+  },
+  "80304": {
+    "budget": 0,
+    "revenue": 5909483,
+    "runtime": 84,
+    "genres": "Comedy|Western"
+  },
+  "8545": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Comedy|Drama|Music"
+  },
+  "19556": {
+    "budget": 6000000,
+    "revenue": 4591629,
+    "runtime": 93,
+    "genres": "Comedy|Romance"
+  },
+  "13403": {
+    "budget": 6000000,
+    "revenue": 3660081,
+    "runtime": 95,
+    "genres": "Comedy|Music|Drama"
+  },
+  "347764": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Mystery|Drama|Thriller|Horror"
+  },
+  "31064": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Drama|Thriller"
+  },
+  "11583": {
+    "budget": 6000000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Thriller|Adventure|Drama|Crime"
+  },
+  "18602": {
+    "budget": 0,
+    "revenue": 869820,
+    "runtime": 97,
+    "genres": "Drama"
+  },
+  "10930": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Drama|Thriller"
+  },
+  "32395": {
+    "budget": 6000000,
+    "revenue": 987053,
+    "runtime": 99,
+    "genres": "Drama"
+  },
+  "7547": {
+    "budget": 6000000,
+    "revenue": 161578,
+    "runtime": 97,
+    "genres": "Drama|Romance"
+  },
+  "35944": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Comedy|Crime"
+  },
+  "42222": {
+    "budget": 7840000,
+    "revenue": 20700000,
+    "runtime": 117,
+    "genres": "Drama|Romance|Thriller"
+  },
+  "44260": {
+    "budget": 0,
+    "revenue": 25,
+    "runtime": 152,
+    "genres": "Documentary"
+  },
+  "9282": {
+    "budget": 6000000,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Thriller|Comedy|Crime"
+  },
+  "38940": {
+    "budget": 8600000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Action|Drama|Thriller|War"
+  },
+  "35689": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Crime|Mystery|Thriller"
+  },
+  "37206": {
+    "budget": 6000000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Family|Drama"
+  },
+  "58626": {
+    "budget": 6000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Thriller"
+  },
+  "168027": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy"
+  },
+  "135595": {
+    "budget": 0,
+    "revenue": 15091,
+    "runtime": 91,
+    "genres": "Drama|Thriller"
+  },
+  "89861": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Comedy"
+  },
+  "57022": {
+    "budget": 0,
+    "revenue": 3369654,
+    "runtime": 141,
+    "genres": "Drama"
+  },
+  "147767": {
+    "budget": 0,
+    "revenue": 126,
+    "runtime": 139,
+    "genres": "Action|Comedy"
+  },
+  "55567": {
+    "budget": 0,
+    "revenue": 531826,
+    "runtime": 107,
+    "genres": "Comedy|Music|Family"
+  },
+  "16186": {
+    "budget": 5500000,
+    "revenue": 50652203,
+    "runtime": 117,
+    "genres": "Drama|Romance|Comedy"
+  },
+  "7863": {
+    "budget": 5500000,
+    "revenue": 35892330,
+    "runtime": 105,
+    "genres": "Drama"
+  },
+  "138697": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Romance|Comedy|Drama"
+  },
+  "1548": {
+    "budget": 7000000,
+    "revenue": 8800000,
+    "runtime": 111,
+    "genres": "Comedy|Drama"
+  },
+  "11889": {
+    "budget": 5500000,
+    "revenue": 16153953,
+    "runtime": 91,
+    "genres": "Drama|Romance"
+  },
+  "5528": {
+    "budget": 5300000,
+    "revenue": 83600000,
+    "runtime": 97,
+    "genres": "Drama|Comedy|Music"
+  },
+  "27451": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Drama"
+  },
+  "73532": {
+    "budget": 3850000,
+    "revenue": 4230854,
+    "runtime": 94,
+    "genres": "Drama|Comedy"
+  },
+  "979": {
+    "budget": 3500000,
+    "revenue": 6500000,
+    "runtime": 93,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "193722": {
+    "budget": 5500000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Comedy|Drama"
+  },
+  "253253": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "51995": {
+    "budget": 5500000,
+    "revenue": 89182,
+    "runtime": 96,
+    "genres": "Comedy|Thriller|Action|Drama"
+  },
+  "13173": {
+    "budget": 5250000,
+    "revenue": 785528,
+    "runtime": 96,
+    "genres": "Comedy"
+  },
+  "22908": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Drama"
+  },
+  "70670": {
+    "budget": 0,
+    "revenue": 18962444,
+    "runtime": 100,
+    "genres": "Thriller|Crime|Action"
+  },
+  "84204": {
+    "budget": 0,
+    "revenue": 427335,
+    "runtime": 94,
+    "genres": "Science Fiction|Comedy|Thriller|Horror|Mystery"
+  },
+  "25248": {
+    "budget": 0,
+    "revenue": 489389,
+    "runtime": 95,
+    "genres": "Comedy|Drama"
+  },
+  "16633": {
+    "budget": 5100000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Drama|Fantasy|Romance"
+  },
+  "63006": {
+    "budget": 4800000,
+    "revenue": 8400000,
+    "runtime": 130,
+    "genres": "Action|Crime|Thriller"
+  },
+  "91586": {
+    "budget": 5000000,
+    "revenue": 161921515,
+    "runtime": 106,
+    "genres": "Horror|Thriller"
+  },
+  "16096": {
+    "budget": 5000000,
+    "revenue": 19438638,
+    "runtime": 94,
+    "genres": "Comedy|Drama"
+  },
+  "16508": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76,
+    "genres": "Animation|Family|Comedy"
+  },
+  "2895": {
+    "budget": 5000000,
+    "revenue": 19868354,
+    "runtime": 134,
+    "genres": "Drama"
+  },
+  "15660": {
+    "budget": 5000000,
+    "revenue": 19032261,
+    "runtime": 128,
+    "genres": "Drama"
+  },
+  "19848": {
+    "budget": 4500000,
+    "revenue": 23261485,
+    "runtime": 104,
+    "genres": "Comedy|Drama"
+  },
+  "235271": {
+    "budget": 0,
+    "revenue": 17534314,
+    "runtime": 105,
+    "genres": "Drama|Thriller"
+  },
+  "45153": {
+    "budget": 6000000,
+    "revenue": 14842388,
+    "runtime": 108,
+    "genres": "Drama"
+  },
+  "14745": {
+    "budget": 0,
+    "revenue": 15,
+    "runtime": 82,
+    "genres": "Drama|Horror"
+  },
+  "24913": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Horror|Mystery"
+  },
+  "13776": {
+    "budget": 5000000,
+    "revenue": 14100000,
+    "runtime": 110,
+    "genres": "Comedy|Drama"
+  },
+  "16441": {
+    "budget": 8000000,
+    "revenue": 14056528,
+    "runtime": 118,
+    "genres": "Fantasy|Adventure|Action"
+  },
+  "14834": {
+    "budget": 5000000,
+    "revenue": 10726909,
+    "runtime": 99,
+    "genres": "Drama|Romance"
+  },
+  "378200": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Romance|Comedy"
+  },
+  "20455": {
+    "budget": 5500000,
+    "revenue": 16600000,
+    "runtime": 89,
+    "genres": "Fantasy|Animation|Science Fiction|Family"
+  },
+  "13193": {
+    "budget": 5000000,
+    "revenue": 10100000,
+    "runtime": 92,
+    "genres": "Comedy"
+  },
+  "10786": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Adventure|Romance"
+  },
+  "12484": {
+    "budget": 15000000,
+    "revenue": 8704851,
+    "runtime": 91,
+    "genres": "Horror|Thriller"
+  },
+  "11959": {
+    "budget": 5000000,
+    "revenue": 6157157,
+    "runtime": 97,
+    "genres": "Comedy"
+  },
+  "9900": {
+    "budget": 5000000,
+    "revenue": 6538177,
+    "runtime": 95,
+    "genres": "Comedy"
+  },
+  "14662": {
+    "budget": 5000000,
+    "revenue": 5502773,
+    "runtime": 91,
+    "genres": "Comedy|Drama"
+  },
+  "21014": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy"
+  },
+  "3028": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy|Horror|Science Fiction"
+  },
+  "36351": {
+    "budget": 5000000,
+    "revenue": 1055987,
+    "runtime": 103,
+    "genres": "Drama|Crime"
+  },
+  "14474": {
+    "budget": 5000000,
+    "revenue": 648183,
+    "runtime": 88,
+    "genres": "Comedy|Romance"
+  },
+  "8744": {
+    "budget": 6000000,
+    "revenue": 339471,
+    "runtime": 97,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "38428": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 136,
+    "genres": "Drama|History"
+  },
+  "8847": {
+    "budget": 0,
+    "revenue": 322323,
+    "runtime": 117,
+    "genres": "Documentary|War"
+  },
+  "39269": {
+    "budget": 2200000,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Drama"
+  },
+  "51384": {
+    "budget": 5000000,
+    "revenue": 282687,
+    "runtime": 92,
+    "genres": "Drama|Romance"
+  },
+  "56930": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 128,
+    "genres": "Action|Drama|Romance"
+  },
+  "41730": {
+    "budget": 2000000,
+    "revenue": 100590,
+    "runtime": 90,
+    "genres": "Comedy|Drama"
+  },
+  "18442": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror|Science Fiction|Thriller"
+  },
+  "71547": {
+    "budget": 5000000,
+    "revenue": 16670,
+    "runtime": 95,
+    "genres": "Romance|Thriller|Mystery"
+  },
+  "57876": {
+    "budget": 5000000,
+    "revenue": 7556,
+    "runtime": 91,
+    "genres": "Horror|Mystery|Science Fiction"
+  },
+  "77495": {
+    "budget": 5000000,
+    "revenue": 8791590,
+    "runtime": 101,
+    "genres": "Thriller|Horror"
+  },
+  "13849": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Horror|Comedy|Crime|Thriller"
+  },
+  "14849": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Drama|Fantasy|Comedy"
+  },
+  "12486": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Comedy|Romance|Documentary"
+  },
+  "19615": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama"
+  },
+  "244403": {
+    "budget": 5000000,
+    "revenue": 58293,
+    "runtime": 105,
+    "genres": "Music|Drama|Comedy"
+  },
+  "292481": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 67,
+    "genres": "Family|Animation"
+  },
+  "340816": {
+    "budget": 0,
+    "revenue": 164839,
+    "runtime": 95,
+    "genres": "Family|Comedy|Romance"
+  },
+  "78814": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "297596": {
+    "budget": 15000000,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Thriller|Drama"
+  },
+  "299552": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Action|Thriller|War"
+  },
+  "11935": {
+    "budget": 5000000,
+    "revenue": 12000000,
+    "runtime": 123,
+    "genres": "Drama|Action|Thriller|Science Fiction"
+  },
+  "113406": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Drama"
+  },
+  "447027": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Family"
+  },
+  "290825": {
+    "budget": 5000000,
+    "revenue": 38784,
+    "runtime": 88,
+    "genres": "Comedy|Fantasy|Horror|Action"
+  },
+  "361159": {
+    "budget": 1181389,
+    "revenue": 56191,
+    "runtime": 97,
+    "genres": "Horror|Action"
+  },
+  "12555": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "Comedy"
+  },
+  "8435": {
+    "budget": 0,
+    "revenue": 3931707,
+    "runtime": 94,
+    "genres": "Comedy|History"
+  },
+  "49365": {
+    "budget": 4700000,
+    "revenue": 1705139,
+    "runtime": 113,
+    "genres": "Mystery|Horror|Thriller"
+  },
+  "11404": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Comedy|Drama"
+  },
+  "300706": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Comedy"
+  },
+  "40185": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Drama|Romance"
+  },
+  "68202": {
+    "budget": 4,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy|Romance"
+  },
+  "8981": {
+    "budget": 0,
+    "revenue": 1656829,
+    "runtime": 105,
+    "genres": "Drama|Family"
+  },
+  "10914": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Comedy|Drama|Western"
+  },
+  "50848": {
+    "budget": 4600000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "166624": {
+    "budget": 4700000,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Drama|Comedy"
+  },
+  "10822": {
+    "budget": 4600000,
+    "revenue": 1432799,
+    "runtime": 97,
+    "genres": "Drama"
+  },
+  "10844": {
+    "budget": 0,
+    "revenue": 739865,
+    "runtime": 103,
+    "genres": "Drama|Crime"
+  },
+  "27686": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Music|Comedy|Romance"
+  },
+  "65749": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "Music|Romance|Drama"
+  },
+  "6106": {
+    "budget": 4500000,
+    "revenue": 1500000,
+    "runtime": 123,
+    "genres": "Drama|Thriller|War"
+  },
+  "66607": {
+    "budget": 0,
+    "revenue": 9330465,
+    "runtime": 105,
+    "genres": "Action|Comedy"
+  },
+  "17139": {
+    "budget": 4500000,
+    "revenue": 0,
+    "runtime": 122,
+    "genres": "History|Drama"
+  },
+  "12079": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Crime|Drama|Comedy"
+  },
+  "4550": {
+    "budget": 0,
+    "revenue": 23803308,
+    "runtime": 115,
+    "genres": "Drama|Thriller"
+  },
+  "62116": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "9991": {
+    "budget": 2750000,
+    "revenue": 7310206,
+    "runtime": 99,
+    "genres": "Comedy|Drama"
+  },
+  "13807": {
+    "budget": 4800000,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Action|Crime|Thriller"
+  },
+  "68818": {
+    "budget": 0,
+    "revenue": 987883,
+    "runtime": 98,
+    "genres": "Adventure|Action|Western"
+  },
+  "12093": {
+    "budget": 2700000,
+    "revenue": 1007747,
+    "runtime": 109,
+    "genres": "Drama|Crime"
+  },
+  "281730": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 134,
+    "genres": "Comedy|Drama|Thriller"
+  },
+  "362105": {
+    "budget": 4400000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Comedy|Horror|TV Movie"
+  },
+  "10970": {
+    "budget": 4400000,
+    "revenue": 36145695,
+    "runtime": 87,
+    "genres": "Comedy"
+  },
+  "17663": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 199,
+    "genres": "Family|Drama"
+  },
+  "270938": {
+    "budget": 4500000,
+    "revenue": 11774,
+    "runtime": 103,
+    "genres": "Adventure|Action"
+  },
+  "11826": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Crime|Thriller|Drama"
+  },
+  "29920": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 124,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "26379": {
+    "budget": 3250000,
+    "revenue": 0,
+    "runtime": 133,
+    "genres": "Drama|Family"
+  },
+  "34069": {
+    "budget": 4500000,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Thriller|Mystery|Science Fiction"
+  },
+  "10947": {
+    "budget": 4200000,
+    "revenue": 3746,
+    "runtime": 98,
+    "genres": "Comedy|Family|Music|Romance|TV Movie"
+  },
+  "47452": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Drama|Romance"
+  },
+  "29426": {
+    "budget": 4000000,
+    "revenue": 386078,
+    "runtime": 90,
+    "genres": "Horror|Comedy|Drama|Thriller"
+  },
+  "165864": {
+    "budget": 4500000,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Horror|Comedy"
+  },
+  "987": {
+    "budget": 4000000,
+    "revenue": 15000000,
+    "runtime": 105,
+    "genres": "Comedy"
+  },
+  "8357": {
+    "budget": 0,
+    "revenue": 10000000,
+    "runtime": 109,
+    "genres": "Documentary|Comedy|Drama"
+  },
+  "10744": {
+    "budget": 4000000,
+    "revenue": 10400000,
+    "runtime": 101,
+    "genres": "Romance|Drama"
+  },
+  "9782": {
+    "budget": 4000000,
+    "revenue": 10639686,
+    "runtime": 91,
+    "genres": "Crime|Horror|Mystery|Thriller"
+  },
+  "18713": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Comedy|Crime"
+  },
+  "6537": {
+    "budget": 3400000,
+    "revenue": 78638987,
+    "runtime": 105,
+    "genres": "Horror|Drama|Thriller"
+  },
+  "184345": {
+    "budget": 4000000,
+    "revenue": 25343661,
+    "runtime": 87,
+    "genres": "Comedy|Horror"
+  },
+  "1809": {
+    "budget": 4000000,
+    "revenue": 11832822,
+    "runtime": 110,
+    "genres": "Drama|Romance|Comedy"
+  },
+  "19153": {
+    "budget": 7500000,
+    "revenue": 5345083,
+    "runtime": 96,
+    "genres": "Documentary"
+  },
+  "16448": {
+    "budget": 4000000,
+    "revenue": 2900000,
+    "runtime": 84,
+    "genres": "Comedy|Music"
+  },
+  "15122": {
+    "budget": 4000000,
+    "revenue": 2924635,
+    "runtime": 94,
+    "genres": "Comedy|Romance"
+  },
+  "1546": {
+    "budget": 3000000,
+    "revenue": 1919197,
+    "runtime": 96,
+    "genres": "Comedy|Drama"
+  },
+  "89708": {
+    "budget": 4000000,
+    "revenue": 2639616,
+    "runtime": 102,
+    "genres": "Documentary"
+  },
+  "27551": {
+    "budget": 4000000,
+    "revenue": 800000,
+    "runtime": 87,
+    "genres": "Adventure|Fantasy|Action"
+  },
+  "64678": {
+    "budget": 0,
+    "revenue": 1406224,
+    "runtime": 83,
+    "genres": "Drama|Romance"
+  },
+  "309503": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Thriller|Drama"
+  },
+  "14293": {
+    "budget": 4000000,
+    "revenue": 563711,
+    "runtime": 99,
+    "genres": "Comedy|Drama|Thriller"
+  },
+  "15059": {
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Drama"
+  },
+  "103328": {
+    "budget": 4000000,
+    "revenue": 641100,
+    "runtime": 116,
+    "genres": "Drama|Fantasy"
+  },
+  "27723": {
+    "budget": 1500000,
+    "revenue": 268117,
+    "runtime": 96,
+    "genres": "Comedy|Horror"
+  },
+  "20468": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy"
+  },
+  "242575": {
+    "budget": 4000000,
+    "revenue": 5104868,
+    "runtime": 119,
+    "genres": "Drama"
+  },
+  "29122": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Comedy|Crime"
+  },
+  "125123": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Romance"
+  },
+  "133575": {
+    "budget": 4000000,
+    "revenue": 2143,
+    "runtime": 100,
+    "genres": "Drama|Romance|Comedy"
+  },
+  "34941": {
+    "budget": 4000000,
+    "revenue": 46362,
+    "runtime": 94,
+    "genres": "Drama"
+  },
+  "227975": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Drama"
+  },
+  "10981": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Fantasy|Science Fiction"
+  },
+  "225235": {
+    "budget": 0,
+    "revenue": 4037782,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "14902": {
+    "budget": 6000000,
+    "revenue": 2800000,
+    "runtime": 141,
+    "genres": "Drama|History"
+  },
+  "121676": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Thriller|Romance"
+  },
+  "20065": {
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "257087": {
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Horror"
+  },
+  "46420": {
+    "budget": 4000000,
+    "revenue": 358399,
+    "runtime": 84,
+    "genres": "Horror"
+  },
+  "114635": {
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Horror"
+  },
+  "158150": {
+    "budget": 4000000,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Comedy|Romance|TV Movie"
+  },
+  "251979": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Romance|Adventure|Drama"
+  },
+  "266102": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Drama|Music"
+  },
+  "29262": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "Drama"
+  },
+  "5178": {
+    "budget": 3800000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "352978": {
+    "budget": 5000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Thriller|Adventure|Action"
+  },
+  "40505": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Action|Comedy"
+  },
+  "22007": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Horror|Thriller"
+  },
+  "10615": {
+    "budget": 7000000,
+    "revenue": 3300000,
+    "runtime": 81,
+    "genres": "Action|Comedy"
+  },
+  "205321": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Action|Comedy|Horror|Science Fiction|TV Movie"
+  },
+  "89540": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Drama|History"
+  },
+  "38007": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Comedy|Romance"
+  },
+  "540": {
+    "budget": 3500000,
+    "revenue": 97446,
+    "runtime": 91,
+    "genres": "Action|Comedy|Romance"
+  },
+  "370464": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Crime|Action"
+  },
+  "20055": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Crime|Drama|Mystery|Thriller"
+  },
+  "224569": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Action|Crime|Thriller"
+  },
+  "39303": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Horror|Thriller|Mystery"
+  },
+  "142061": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 78,
+    "genres": "Science Fiction|Action|Animation|Mystery"
+  },
+  "370662": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Documentary"
+  },
+  "252360": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Action|Adventure|Drama|Fantasy"
+  },
+  "256740": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Action|Drama|Thriller"
+  },
+  "299145": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Drama"
+  },
+  "241766": {
+    "budget": 3440000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Crime|Mystery|Thriller"
+  },
+  "86549": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama"
+  },
+  "75861": {
+    "budget": 3400000,
+    "revenue": 0,
+    "runtime": 118,
+    "genres": "Drama|Music"
+  },
+  "13551": {
+    "budget": 0,
+    "revenue": 905291,
+    "runtime": 94,
+    "genres": "Mystery|Drama|Crime|Thriller"
+  },
+  "850": {
+    "budget": 3300000,
+    "revenue": 20700000,
+    "runtime": 93,
+    "genres": "Comedy|Family"
+  },
+  "12586": {
+    "budget": 3300000,
+    "revenue": 12100000,
+    "runtime": 91,
+    "genres": "Drama|Romance"
+  },
+  "11564": {
+    "budget": 4300000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Action|Crime|Drama|Thriller"
+  },
+  "8841": {
+    "budget": 0,
+    "revenue": 28814580,
+    "runtime": 128,
+    "genres": "Drama"
+  },
+  "22051": {
+    "budget": 0,
+    "revenue": 3037173,
+    "runtime": 99,
+    "genres": "Drama|Romance"
+  },
+  "436": {
+    "budget": 3000000,
+    "revenue": 12450821,
+    "runtime": 101,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "10070": {
+    "budget": 3200000,
+    "revenue": 658573,
+    "runtime": 87,
+    "genres": "Horror"
+  },
+  "125490": {
+    "budget": 3500000,
+    "revenue": 123407,
+    "runtime": 110,
+    "genres": "Science Fiction|Horror"
+  },
+  "23618": {
+    "budget": 13000000,
+    "revenue": 38251106,
+    "runtime": 115,
+    "genres": "Comedy|Documentary"
+  },
+  "10162": {
+    "budget": 3000000,
+    "revenue": 43515982,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "259943": {
+    "budget": 0,
+    "revenue": 47587984,
+    "runtime": 111,
+    "genres": "Drama|Romance"
+  },
+  "223485": {
+    "budget": 2000000,
+    "revenue": 1617522,
+    "runtime": 84,
+    "genres": "Western|Drama|Adventure|Romance|Thriller"
+  },
+  "29463": {
+    "budget": 3000000,
+    "revenue": 11000000,
+    "runtime": 97,
+    "genres": "Comedy|Drama|Music"
+  },
+  "18065": {
+    "budget": 3000000,
+    "revenue": 10172519,
+    "runtime": 84,
+    "genres": "Action|Comedy|Crime"
+  },
+  "53862": {
+    "budget": 0,
+    "revenue": 9016377,
+    "runtime": 94,
+    "genres": "Comedy|Romance"
+  },
+  "30139": {
+    "budget": 3000000,
+    "revenue": 7301115,
+    "runtime": 99,
+    "genres": "Comedy|Romance"
+  },
+  "15582": {
+    "budget": 3000000,
+    "revenue": 7900000,
+    "runtime": 95,
+    "genres": "Comedy|Fantasy|Family"
+  },
+  "30309": {
+    "budget": 3000000,
+    "revenue": 7700000,
+    "runtime": 86,
+    "genres": "Comedy|Drama"
+  },
+  "7509": {
+    "budget": 0,
+    "revenue": 10422387,
+    "runtime": 115,
+    "genres": "Drama|Romance"
+  },
+  "23531": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Comedy|Romance"
+  },
+  "40247": {
+    "budget": 3000000,
+    "revenue": 4313829,
+    "runtime": 90,
+    "genres": "Comedy|Drama"
+  },
+  "24126": {
+    "budget": 3000000,
+    "revenue": 3902679,
+    "runtime": 98,
+    "genres": "Fantasy|Horror|Science Fiction|Action"
+  },
+  "13982": {
+    "budget": 3000000,
+    "revenue": 3602884,
+    "runtime": 95,
+    "genres": "Comedy|Crime|Adventure|Mystery"
+  },
+  "16642": {
+    "budget": 3000000,
+    "revenue": 3700000,
+    "runtime": 94,
+    "genres": "Drama|Romance"
+  },
+  "17734": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Drama"
+  },
+  "121986": {
+    "budget": 0,
+    "revenue": 8986144,
+    "runtime": 86,
+    "genres": "Comedy|Drama"
+  },
+  "17995": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Comedy|Documentary"
+  },
+  "35691": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|Family"
+  },
+  "317930": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Action|Comedy"
+  },
+  "11229": {
+    "budget": 3100000,
+    "revenue": 295493,
+    "runtime": 102,
+    "genres": "Comedy|Crime|Thriller|Drama"
+  },
+  "22488": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Drama|Romance|Western|Family|TV Movie"
+  },
+  "82533": {
+    "budget": 0,
+    "revenue": 1314358,
+    "runtime": 99,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "34099": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama|Music|Family"
+  },
+  "79940": {
+    "budget": 3000000,
+    "revenue": 201436,
+    "runtime": 94,
+    "genres": "Comedy"
+  },
+  "342": {
+    "budget": 2700000,
+    "revenue": 2085166,
+    "runtime": 98,
+    "genres": "Comedy|Drama"
+  },
+  "281230": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "War|Drama|History"
+  },
+  "38033": {
+    "budget": 5000000,
+    "revenue": 143000,
+    "runtime": 96,
+    "genres": "Horror|Thriller"
+  },
+  "100975": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Drama|Comedy"
+  },
+  "39563": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Drama|Horror"
+  },
+  "27404": {
+    "budget": 3000000,
+    "revenue": 12155249,
+    "runtime": 80,
+    "genres": "Comedy|Action|Mystery|Thriller|Romance|Crime|Music"
+  },
+  "170480": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Family"
+  },
+  "71866": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama"
+  },
+  "192210": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Action|Drama|Thriller"
+  },
+  "180296": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy"
+  },
+  "157058": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Comedy"
+  },
+  "70006": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Drama|Action"
+  },
+  "79587": {
+    "budget": 3,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Comedy"
+  },
+  "176077": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Thriller"
+  },
+  "260947": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Mystery|Thriller"
+  },
+  "342502": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 79,
+    "genres": "Thriller"
+  },
+  "191229": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Drama|Thriller"
+  },
+  "43213": {
+    "budget": 3200000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Action|Crime|Thriller"
+  },
+  "44594": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "325173": {
+    "budget": 3000000,
+    "revenue": 36040116,
+    "runtime": 80,
+    "genres": "Action|Crime|Thriller"
+  },
+  "55831": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "351043": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Mystery|Drama|Horror"
+  },
+  "10226": {
+    "budget": 2500000,
+    "revenue": 6291958,
+    "runtime": 91,
+    "genres": "Horror|Thriller|Mystery"
+  },
+  "66942": {
+    "budget": 2902660,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Romance|Comedy|Drama|Fantasy"
+  },
+  "356483": {
+    "budget": 3000000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Action|Horror|Thriller"
+  },
+  "21461": {
+    "budget": 1800000,
+    "revenue": 31517561,
+    "runtime": 144,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "55306": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Drama"
+  },
+  "346081": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 141,
+    "genres": "Comedy|Fantasy"
+  },
+  "16016": {
+    "budget": 0,
+    "revenue": 4917227,
+    "runtime": 90,
+    "genres": "Action|Adventure|Animation|Comedy|Science Fiction"
+  },
+  "5900": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Comedy|Drama"
+  },
+  "26371": {
+    "budget": 2600000,
+    "revenue": 2438304,
+    "runtime": 140,
+    "genres": "Drama|Romance"
+  },
+  "14137": {
+    "budget": 2800000,
+    "revenue": 472000,
+    "runtime": 86,
+    "genres": "Comedy"
+  },
+  "33106": {
+    "budget": 0,
+    "revenue": 16259000,
+    "runtime": 99,
+    "genres": "Comedy|Action|Adventure"
+  },
+  "8875": {
+    "budget": 2600000,
+    "revenue": 677548,
+    "runtime": 97,
+    "genres": "Horror|Thriller"
+  },
+  "72914": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Documentary"
+  },
+  "9591": {
+    "budget": 26000000,
+    "revenue": 34585416,
+    "runtime": 108,
+    "genres": "Comedy|Drama|Romance|Music"
+  },
+  "181330": {
+    "budget": 0,
+    "revenue": 32230907,
+    "runtime": 74,
+    "genres": "Comedy|Documentary"
+  },
+  "468": {
+    "budget": 2500000,
+    "revenue": 6400000,
+    "runtime": 104,
+    "genres": "Drama"
+  },
+  "50538": {
+    "budget": 3200000,
+    "revenue": 2014071,
+    "runtime": 100,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "25636": {
+    "budget": 2500000,
+    "revenue": 1300000,
+    "runtime": 107,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "19316": {
+    "budget": 2500000,
+    "revenue": 1230000,
+    "runtime": 97,
+    "genres": "Comedy|Romance|Drama"
+  },
+  "21074": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Drama"
+  },
+  "20": {
+    "budget": 2500000,
+    "revenue": 12300000,
+    "runtime": 106,
+    "genres": "Drama|Romance"
+  },
+  "13007": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Documentary|Comedy"
+  },
+  "13518": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Documentary|Drama"
+  },
+  "116584": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama"
+  },
+  "40428": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Documentary"
+  },
+  "17334": {
+    "budget": 14000000,
+    "revenue": 115592,
+    "runtime": 106,
+    "genres": "Comedy|Romance"
+  },
+  "1698": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Horror|Thriller"
+  },
+  "76706": {
+    "budget": 2500000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Comedy|Family|TV Movie"
+  },
+  "254472": {
+    "budget": 2500000,
+    "revenue": 71085,
+    "runtime": 87,
+    "genres": "Horror|Comedy|Science Fiction"
+  },
+  "332285": {
+    "budget": 35000000,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Horror"
+  },
+  "13569": {
+    "budget": 2400000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Horror|Thriller"
+  },
+  "356216": {
+    "budget": 2500000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Crime"
+  },
+  "146631": {
+    "budget": 2500000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Action|Science Fiction"
+  },
+  "61038": {
+    "budget": 2450000,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Drama|Family"
+  },
+  "78373": {
+    "budget": 0,
+    "revenue": 565592,
+    "runtime": 97,
+    "genres": "Comedy|Drama|Family"
+  },
+  "74457": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Drama"
+  },
+  "283384": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Thriller"
+  },
+  "19933": {
+    "budget": 2300000,
+    "revenue": 2300000,
+    "runtime": 90,
+    "genres": "Animation|Adventure|Fantasy|Family"
+  },
+  "433715": {
+    "budget": 25000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Drama"
+  },
+  "9916": {
+    "budget": 2200000,
+    "revenue": 388390,
+    "runtime": 117,
+    "genres": "Drama"
+  },
+  "309425": {
+    "budget": 2300000,
+    "revenue": 14410698,
+    "runtime": 115,
+    "genres": "Drama"
+  },
+  "14156": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Romance|Drama"
+  },
+  "360339": {
+    "budget": 2300000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Thriller|Drama"
+  },
+  "31163": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Romance"
+  },
+  "297621": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Romance|Comedy|Music"
+  },
+  "16205": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Horror|Action|Comedy"
+  },
+  "9517": {
+    "budget": 2100000,
+    "revenue": 480811,
+    "runtime": 113,
+    "genres": "Crime|Drama"
+  },
+  "6007": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Comedy|Drama"
+  },
+  "69640": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Drama|Mystery|Thriller|TV Movie"
+  },
+  "371085": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy|Drama|Mystery|Thriller|Romance"
+  },
+  "347548": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 77,
+    "genres": "Thriller|Horror|Science Fiction"
+  },
+  "322443": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Adventure|Drama|Western|Action"
+  },
+  "28165": {
+    "budget": 2500000,
+    "revenue": 792966,
+    "runtime": 95,
+    "genres": "Action|Comedy|Horror|Science Fiction"
+  },
+  "12207": {
+    "budget": 10000000,
+    "revenue": 34300528,
+    "runtime": 102,
+    "genres": "Action|Comedy"
+  },
+  "20862": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Drama|Comedy"
+  },
+  "2771": {
+    "budget": 2000000,
+    "revenue": 6003587,
+    "runtime": 101,
+    "genres": "Comedy|Drama"
+  },
+  "11194": {
+    "budget": 0,
+    "revenue": 13885802,
+    "runtime": 106,
+    "genres": "Documentary|Action|Adventure|Drama"
+  },
+  "1382": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy|Drama"
+  },
+  "4816": {
+    "budget": 2000000,
+    "revenue": 9392768,
+    "runtime": 117,
+    "genres": "Crime|Drama"
+  },
+  "17994": {
+    "budget": 2000000,
+    "revenue": 7369373,
+    "runtime": 98,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "48382": {
+    "budget": 2000000,
+    "revenue": 1672730,
+    "runtime": 120,
+    "genres": "Adventure|Family"
+  },
+  "14284": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Documentary|History"
+  },
+  "57120": {
+    "budget": 0,
+    "revenue": 876302,
+    "runtime": 103,
+    "genres": "Western|Drama"
+  },
+  "22617": {
+    "budget": 2000000,
+    "revenue": 1075504,
+    "runtime": 99,
+    "genres": "Drama|Action|Thriller"
+  },
+  "55561": {
+    "budget": 0,
+    "revenue": 537948,
+    "runtime": 96,
+    "genres": "Drama"
+  },
+  "24363": {
+    "budget": 6000000,
+    "revenue": 389866,
+    "runtime": 97,
+    "genres": "Comedy|Drama"
+  },
+  "13121": {
+    "budget": 2000000,
+    "revenue": 2340110,
+    "runtime": 94,
+    "genres": "Comedy|Horror"
+  },
+  "325140": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 148,
+    "genres": "Romance|Thriller"
+  },
+  "22913": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama"
+  },
+  "67373": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Action|Thriller"
+  },
+  "171759": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Adventure|Family"
+  },
+  "206296": {
+    "budget": 3500000,
+    "revenue": 292092,
+    "runtime": 94,
+    "genres": "Comedy|Drama|Music|Romance"
+  },
+  "35219": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Comedy|Drama|Mystery|Thriller"
+  },
+  "7515": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Drama|Romance"
+  },
+  "335866": {
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Horror|Science Fiction|Mystery|Thriller"
+  },
+  "13510": {
+    "budget": 12850990,
+    "revenue": 3984669,
+    "runtime": 91,
+    "genres": "Horror|Thriller"
+  },
+  "215881": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Thriller"
+  },
+  "18238": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Horror|Comedy"
+  },
+  "22600": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Action|Crime|Drama"
+  },
+  "12612": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Thriller|Drama|Crime"
+  },
+  "50698": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Thriller|Horror"
+  },
+  "34335": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Crime|Horror|Mystery"
+  },
+  "459488": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Documentary|Music"
+  },
+  "119458": {
+    "budget": 500000,
+    "revenue": 15919,
+    "runtime": 103,
+    "genres": "Thriller|Drama"
+  },
+  "20406": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76,
+    "genres": "Action|Adventure|Drama"
+  },
+  "3766": {
+    "budget": 2300000,
+    "revenue": 1564609,
+    "runtime": 87,
+    "genres": "Mystery|Crime|Thriller|Drama"
+  },
+  "18616": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Horror|Thriller"
+  },
+  "18808": {
+    "budget": 14000000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Action|Adventure|Drama"
+  },
+  "95755": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Comedy|Crime|Drama"
+  },
+  "198062": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy"
+  },
+  "188652": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Comedy|Fantasy|Music|Science Fiction"
+  },
+  "174311": {
+    "budget": 10000000,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Comedy|Drama"
+  },
+  "12602": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Horror|Mystery"
+  },
+  "153795": {
+    "budget": 2000000,
+    "revenue": 61669,
+    "runtime": 89,
+    "genres": "Comedy|Drama"
+  },
+  "17768": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Music|Comedy|Romance"
+  },
+  "13516": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Documentary"
+  },
+  "98549": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Western|Action|Adventure|History"
+  },
+  "312793": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Horror"
+  },
+  "309919": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Thriller|Mystery|Horror|Drama"
+  },
+  "299553": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Thriller"
+  },
+  "21309": {
+    "budget": 1900000,
+    "revenue": 4600000,
+    "runtime": 100,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "32235": {
+    "budget": 1900000,
+    "revenue": 1600000,
+    "runtime": 103,
+    "genres": "Fantasy|Drama"
+  },
+  "329540": {
+    "budget": 1950000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action"
+  },
+  "49020": {
+    "budget": 1500000,
+    "revenue": 864659,
+    "runtime": 98,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "159037": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Documentary|Drama|History"
+  },
+  "12838": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama"
+  },
+  "157293": {
+    "budget": 0,
+    "revenue": 222000,
+    "runtime": 143,
+    "genres": "Drama"
+  },
+  "14048": {
+    "budget": 0,
+    "revenue": 2957978,
+    "runtime": 94,
+    "genres": "Documentary"
+  },
+  "356987": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Drama|Thriller|Adventure"
+  },
+  "295886": {
+    "budget": 1900000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Drama"
+  },
+  "33511": {
+    "budget": 1500000,
+    "revenue": 6577779,
+    "runtime": 98,
+    "genres": "Drama"
+  },
+  "542": {
+    "budget": 1800000,
+    "revenue": 0,
+    "runtime": 118,
+    "genres": "Drama|Romance"
+  },
+  "62677": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Drama|Music"
+  },
+  "260778": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 155,
+    "genres": "Comedy|Romance"
+  },
+  "58492": {
+    "budget": 0,
+    "revenue": 621951,
+    "runtime": 87,
+    "genres": "Comedy|Documentary"
+  },
+  "44562": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Horror"
+  },
+  "37232": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Adventure|Drama"
+  },
+  "36334": {
+    "budget": 0,
+    "revenue": 2250000,
+    "runtime": 87,
+    "genres": "Crime|Drama"
+  },
+  "9783": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 113,
+    "genres": "Horror|Thriller"
+  },
+  "386826": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy|Horror|Thriller"
+  },
+  "205126": {
+    "budget": 1800000,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Science Fiction|Action"
+  },
+  "98557": {
+    "budget": 1800000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Comedy|Romance"
+  },
+  "246449": {
+    "budget": 1493619,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Adventure|Family"
+  },
+  "32579": {
+    "budget": 0,
+    "revenue": 23311391,
+    "runtime": 106,
+    "genres": "Drama"
+  },
+  "1999": {
+    "budget": 1700000,
+    "revenue": 44800000,
+    "runtime": 131,
+    "genres": "Drama|Thriller"
+  },
+  "9709": {
+    "budget": 0,
+    "revenue": 2766094,
+    "runtime": 87,
+    "genres": "Drama|Romance"
+  },
+  "25312": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Romance"
+  },
+  "206284": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Drama|Music"
+  },
+  "27455": {
+    "budget": 0,
+    "revenue": 6033999,
+    "runtime": 84,
+    "genres": "Comedy|Drama"
+  },
+  "66468": {
+    "budget": 0,
+    "revenue": 2592808,
+    "runtime": 105,
+    "genres": "Drama|Crime|Thriller"
+  },
+  "7973": {
+    "budget": 0,
+    "revenue": 14248951,
+    "runtime": 96,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "283686": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Thriller|Horror"
+  },
+  "15976": {
+    "budget": 1500000,
+    "revenue": 1029926,
+    "runtime": 114,
+    "genres": "Drama|Romance|Comedy"
+  },
+  "74084": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 144,
+    "genres": "Romance"
+  },
+  "1651": {
+    "budget": 1600000,
+    "revenue": 7356000,
+    "runtime": 123,
+    "genres": "Romance|Drama|Crime|Thriller"
+  },
+  "25428": {
+    "budget": 1650000,
+    "revenue": 3264,
+    "runtime": 111,
+    "genres": "Drama"
+  },
+  "298584": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Horror"
+  },
+  "308529": {
+    "budget": 17000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Drama"
+  },
+  "20156": {
+    "budget": 2000000,
+    "revenue": 4221036,
+    "runtime": 103,
+    "genres": "Drama"
+  },
+  "18079": {
+    "budget": 1300000,
+    "revenue": 12413888,
+    "runtime": 114,
+    "genres": "Crime|Thriller|Drama"
+  },
+  "127918": {
+    "budget": 0,
+    "revenue": 2573616,
+    "runtime": 101,
+    "genres": "Documentary|History|War"
+  },
+  "14054": {
+    "budget": 0,
+    "revenue": 414404,
+    "runtime": 106,
+    "genres": "Drama|Romance|Crime"
+  },
+  "323271": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Thriller|Action|Horror"
+  },
+  "13066": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Comedy|Romance"
+  },
+  "66025": {
+    "budget": 0,
+    "revenue": 330048,
+    "runtime": 95,
+    "genres": "Drama"
+  },
+  "11908": {
+    "budget": 1500000,
+    "revenue": 155873,
+    "runtime": 84,
+    "genres": "Comedy|Horror"
+  },
+  "39541": {
+    "budget": 1800000,
+    "revenue": 163348,
+    "runtime": 91,
+    "genres": "Drama|Family|Comedy"
+  },
+  "51820": {
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Comedy|Romance"
+  },
+  "291362": {
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Comedy"
+  },
+  "30082": {
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Drama|Romance"
+  },
+  "72913": {
+    "budget": 1200000,
+    "revenue": 183597,
+    "runtime": 128,
+    "genres": "Drama|History|War"
+  },
+  "29406": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "361505": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Romance|Comedy|Drama"
+  },
+  "253306": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Horror|Comedy|Thriller"
+  },
+  "29595": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Documentary"
+  },
+  "46729": {
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy|Drama|Fantasy|Romance|Science Fiction"
+  },
+  "294600": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Drama|Comedy"
+  },
+  "137347": {
+    "budget": 9000000,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Comedy|Drama"
+  },
+  "290370": {
+    "budget": 0,
+    "revenue": 1500000,
+    "runtime": 85,
+    "genres": "Science Fiction"
+  },
+  "426469": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Comedy|Drama|Family"
+  },
+  "356841": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Thriller|Action|Crime"
+  },
+  "301325": {
+    "budget": 1500000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Crime|Horror|Thriller"
+  },
+  "347755": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Action|Horror|Thriller"
+  },
+  "44413": {
+    "budget": 1400000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Drama"
+  },
+  "48463": {
+    "budget": 1400000,
+    "revenue": 37493,
+    "runtime": 94,
+    "genres": "Comedy|Adventure|Horror"
+  },
+  "394047": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Drama|Family"
+  },
+  "312791": {
+    "budget": 3150000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Horror|Thriller"
+  },
+  "266034": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 76,
+    "genres": "Crime|Romance|Thriller"
+  },
+  "280381": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Thriller|Horror"
+  },
+  "2661": {
+    "budget": 1377800,
+    "revenue": 3900000,
+    "runtime": 105,
+    "genres": "Action|Comedy|Crime"
+  },
+  "218500": {
+    "budget": 0,
+    "revenue": 804963,
+    "runtime": 106,
+    "genres": "Western|History"
+  },
+  "309": {
+    "budget": 1300000,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Drama"
+  },
+  "27845": {
+    "budget": 1300000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama|Comedy"
+  },
+  "52790": {
+    "budget": 0,
+    "revenue": 619042,
+    "runtime": 105,
+    "genres": "Drama"
+  },
+  "100275": {
+    "budget": 0,
+    "revenue": 1632,
+    "runtime": 79,
+    "genres": "Horror|Comedy"
+  },
+  "295914": {
+    "budget": 1400000,
+    "revenue": 0,
+    "runtime": 135,
+    "genres": "Drama|Action"
+  },
+  "42033": {
+    "budget": 1800000,
+    "revenue": 1057064,
+    "runtime": 88,
+    "genres": "Science Fiction|Thriller|Action"
+  },
+  "19187": {
+    "budget": 2000000,
+    "revenue": 94615,
+    "runtime": 81,
+    "genres": "Action|Comedy"
+  },
+  "46415": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 122,
+    "genres": "Comedy|Romance"
+  },
+  "38570": {
+    "budget": 1300000,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Comedy"
+  },
+  "27588": {
+    "budget": 1300000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Drama|Horror|Romance"
+  },
+  "84197": {
+    "budget": 0,
+    "revenue": 2767693,
+    "runtime": 100,
+    "genres": "Drama|Music"
+  },
+  "46256": {
+    "budget": 15000000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Adventure|Animation|Comedy|Family"
+  },
+  "278316": {
+    "budget": 1420000,
+    "revenue": 0,
+    "runtime": 123,
+    "genres": "Drama|Horror|Romance"
+  },
+  "1412": {
+    "budget": 1200000,
+    "revenue": 24741667,
+    "runtime": 101,
+    "genres": "Drama"
+  },
+  "357834": {
+    "budget": 1,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Action|Thriller"
+  },
+  "215924": {
+    "budget": 1300000,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy|Drama"
+  },
+  "480": {
+    "budget": 1200000,
+    "revenue": 30787356,
+    "runtime": 114,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "14295": {
+    "budget": 0,
+    "revenue": 11200000,
+    "runtime": 111,
+    "genres": "Drama"
+  },
+  "20770": {
+    "budget": 1200000,
+    "revenue": 2600000,
+    "runtime": 85,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "60400": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Family|Fantasy|Adventure|Comedy"
+  },
+  "310569": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 112,
+    "genres": "Drama"
+  },
+  "98369": {
+    "budget": 1250000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Drama|Comedy"
+  },
+  "114065": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Comedy|Music"
+  },
+  "49951": {
+    "budget": 1200000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Comedy|Documentary|TV Movie"
+  },
+  "86331": {
+    "budget": 1344000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Drama|Romance"
+  },
+  "355629": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Drama|Comedy"
+  },
+  "16433": {
+    "budget": 0,
+    "revenue": 6876,
+    "runtime": 88,
+    "genres": "Comedy|Drama|Adventure"
+  },
+  "15544": {
+    "budget": 1200000,
+    "revenue": 54822,
+    "runtime": 86,
+    "genres": "Comedy"
+  },
+  "107315": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Horror|Thriller"
+  },
+  "137955": {
+    "budget": 1200000,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "59917": {
+    "budget": 1200000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Action|Comedy|Crime"
+  },
+  "157422": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Horror"
+  },
+  "310933": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Horror"
+  },
+  "12877": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama|Thriller|Crime"
+  },
+  "102840": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Documentary"
+  },
+  "55616": {
+    "budget": 1596010,
+    "revenue": 0,
+    "runtime": 75,
+    "genres": "Horror|Music"
+  },
+  "29697": {
+    "budget": 597966,
+    "revenue": 0,
+    "runtime": 116,
+    "genres": "Drama"
+  },
+  "50037": {
+    "budget": 1100000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Science Fiction|Horror|Mystery"
+  },
+  "53502": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Horror|Science Fiction|Action"
+  },
+  "202604": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 77,
+    "genres": "Horror|Documentary|Mystery"
+  },
+  "27374": {
+    "budget": 2000000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Horror|Thriller"
+  },
+  "26815": {
+    "budget": 1250000,
+    "revenue": 0,
+    "runtime": 156,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "811": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Adventure|Science Fiction|Drama"
+  },
+  "244776": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Drama"
+  },
+  "93856": {
+    "budget": 1000000,
+    "revenue": 38390020,
+    "runtime": 88,
+    "genres": "Horror|Thriller"
+  },
+  "7944": {
+    "budget": 1000000,
+    "revenue": 15773307,
+    "runtime": 122,
+    "genres": "Documentary|Music"
+  },
+  "361475": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Drama|Romance|Family"
+  },
+  "18570": {
+    "budget": 1000000,
+    "revenue": 4606199,
+    "runtime": 94,
+    "genres": "Documentary"
+  },
+  "83860": {
+    "budget": 1000000,
+    "revenue": 5396618,
+    "runtime": 107,
+    "genres": "Drama"
+  },
+  "41469": {
+    "budget": 0,
+    "revenue": 3395581,
+    "runtime": 96,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "244772": {
+    "budget": 1000000,
+    "revenue": 5300000,
+    "runtime": 92,
+    "genres": "Drama"
+  },
+  "50837": {
+    "budget": 1000000,
+    "revenue": 3500000,
+    "runtime": 101,
+    "genres": "Drama|Thriller"
+  },
+  "248774": {
+    "budget": 1000000,
+    "revenue": 3123963,
+    "runtime": 85,
+    "genres": "Comedy|Romance"
+  },
+  "10183": {
+    "budget": 1000000,
+    "revenue": 5457664,
+    "runtime": 97,
+    "genres": "Drama|Crime"
+  },
+  "159014": {
+    "budget": 1000000,
+    "revenue": 5892466,
+    "runtime": 89,
+    "genres": "Documentary|Music"
+  },
+  "49963": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "9707": {
+    "budget": 1000000,
+    "revenue": 1239541,
+    "runtime": 92,
+    "genres": "Comedy|Horror|Thriller|Mystery|Fantasy"
+  },
+  "37532": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Drama"
+  },
+  "8675": {
+    "budget": 1000000,
+    "revenue": 602302,
+    "runtime": 94,
+    "genres": "Comedy"
+  },
+  "13132": {
+    "budget": 2500000,
+    "revenue": 548712,
+    "runtime": 108,
+    "genres": "Drama|Romance"
+  },
+  "47686": {
+    "budget": 1000000,
+    "revenue": 543708,
+    "runtime": 97,
+    "genres": "Comedy|Drama"
+  },
+  "192132": {
+    "budget": 0,
+    "revenue": 919591,
+    "runtime": 100,
+    "genres": "Drama"
+  },
+  "24424": {
+    "budget": 1000000,
+    "revenue": 1331651,
+    "runtime": 120,
+    "genres": "Crime|Drama"
+  },
+  "13198": {
+    "budget": 1000000,
+    "revenue": 454026,
+    "runtime": 88,
+    "genres": "Comedy|Drama|Fantasy|Romance"
+  },
+  "244267": {
+    "budget": 1000000,
+    "revenue": 481234,
+    "runtime": 106,
+    "genres": "Science Fiction|Drama"
+  },
+  "21413": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 79,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "39183": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Documentary"
+  },
+  "62402": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "206412": {
+    "budget": 0,
+    "revenue": 112521,
+    "runtime": 90,
+    "genres": "Comedy|Drama"
+  },
+  "201132": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Drama|Adventure|Documentary"
+  },
+  "251471": {
+    "budget": 650000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Documentary|Family"
+  },
+  "112456": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 114,
+    "genres": "Drama|Action"
+  },
+  "20296": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 159,
+    "genres": "Thriller|Crime|Drama|Mystery"
+  },
+  "25983": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror|Mystery"
+  },
+  "66195": {
+    "budget": 500000,
+    "revenue": 453708,
+    "runtime": 93,
+    "genres": "Comedy|Thriller|Crime"
+  },
+  "16155": {
+    "budget": 1000000,
+    "revenue": 45724,
+    "runtime": 88,
+    "genres": "Comedy|Crime"
+  },
+  "46727": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Romance|Drama|Crime"
+  },
+  "55180": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Comedy|Drama"
+  },
+  "29015": {
+    "budget": 1000000,
+    "revenue": 13276,
+    "runtime": 82,
+    "genres": "Comedy|Fantasy|Science Fiction|Action"
+  },
+  "91122": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 118,
+    "genres": "Comedy|Romance"
+  },
+  "320146": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Drama|Science Fiction"
+  },
+  "219716": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Comedy|Drama"
+  },
+  "43630": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Action|Comedy|Science Fiction"
+  },
+  "56491": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Action|Thriller"
+  },
+  "99826": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Comedy|Drama"
+  },
+  "186935": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Crime|Drama|Romance"
+  },
+  "357441": {
+    "budget": 0,
+    "revenue": 1000000,
+    "runtime": 144,
+    "genres": "Family|Comedy|Adventure|Romance"
+  },
+  "19344": {
+    "budget": 900000,
+    "revenue": 0,
+    "runtime": 77,
+    "genres": "Drama|Romance"
+  },
+  "242083": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama|Comedy"
+  },
+  "18869": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Action|Crime|Drama|Thriller"
+  },
+  "26673": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Comedy|Romance"
+  },
+  "41830": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Drama"
+  },
+  "37694": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Drama"
+  },
+  "63287": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Drama"
+  },
+  "335874": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "34592": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Horror"
+  },
+  "92635": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Horror|Thriller"
+  },
+  "258755": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama|Romance"
+  },
+  "96534": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Music|Romance"
+  },
+  "21283": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Comedy|Romance"
+  },
+  "272724": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Western"
+  },
+  "84178": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 79,
+    "genres": "Thriller|Horror"
+  },
+  "101179": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror|Thriller|Mystery"
+  },
+  "52462": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Drama|Thriller"
+  },
+  "269057": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Science Fiction|Drama|Music"
+  },
+  "287524": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror"
+  },
+  "206213": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Action|Science Fiction|Thriller"
+  },
+  "248402": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "207769": {
+    "budget": 950000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Horror|Thriller"
+  },
+  "271185": {
+    "budget": 950000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama"
+  },
+  "29731": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Romance"
+  },
+  "292539": {
+    "budget": 913000,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Documentary"
+  },
+  "323270": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Horror"
+  },
+  "60421": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 107,
+    "genres": "Drama"
+  },
+  "157354": {
+    "budget": 900000,
+    "revenue": 17600000,
+    "runtime": 82,
+    "genres": "Drama"
+  },
+  "127867": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Comedy|Fantasy|Thriller"
+  },
+  "14014": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Comedy"
+  },
+  "146882": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 78,
+    "genres": "Drama"
+  },
+  "215918": {
+    "budget": 1000000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "84184": {
+    "budget": 0,
+    "revenue": 3094813,
+    "runtime": 91,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "45767": {
+    "budget": 855000,
+    "revenue": 1500711,
+    "runtime": 95,
+    "genres": "Drama|Family|Science Fiction|Fantasy"
+  },
+  "14823": {
+    "budget": 0,
+    "revenue": 449681,
+    "runtime": 85,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "367551": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Action|Comedy|Science Fiction"
+  },
+  "343409": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Mystery"
+  },
+  "60243": {
+    "budget": 5000000,
+    "revenue": 24426169,
+    "runtime": 123,
+    "genres": "Drama"
+  },
+  "57294": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Comedy|Drama|Thriller"
+  },
+  "11446": {
+    "budget": 800000,
+    "revenue": 5034794,
+    "runtime": 88,
+    "genres": "Comedy|Drama"
+  },
+  "905": {
+    "budget": 0,
+    "revenue": 885533,
+    "runtime": 141,
+    "genres": "Drama|Crime|Romance"
+  },
+  "279759": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama"
+  },
+  "78705": {
+    "budget": 0,
+    "revenue": 200054,
+    "runtime": 83,
+    "genres": "Drama"
+  },
+  "25212": {
+    "budget": 800000,
+    "revenue": 145071,
+    "runtime": 101,
+    "genres": "Action|Drama|Mystery|Thriller"
+  },
+  "146269": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Drama"
+  },
+  "292483": {
+    "budget": 800000,
+    "revenue": 36026,
+    "runtime": 92,
+    "genres": "Comedy|Romance|Drama"
+  },
+  "10105": {
+    "budget": 780000,
+    "revenue": 1310470,
+    "runtime": 90,
+    "genres": "War|Drama|Action|Adventure|History"
+  },
+  "211557": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 14,
+    "genres": "Horror|Science Fiction"
+  },
+  "40862": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75,
+    "genres": "Documentary"
+  },
+  "13158": {
+    "budget": 750000,
+    "revenue": 5500000,
+    "runtime": 86,
+    "genres": "Comedy|Action|Animation|Adventure|Fantasy|Science Fiction"
+  },
+  "74510": {
+    "budget": 0,
+    "revenue": 7706436,
+    "runtime": 89,
+    "genres": "Comedy"
+  },
+  "8416": {
+    "budget": 750000,
+    "revenue": 233493,
+    "runtime": 108,
+    "genres": "Drama"
+  },
+  "36584": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Drama|Thriller"
+  },
+  "13429": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Horror|Drama|Thriller|Crime"
+  },
+  "9022": {
+    "budget": 750000,
+    "revenue": 1757270,
+    "runtime": 90,
+    "genres": "Horror|Mystery|Thriller"
+  },
+  "22530": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror"
+  },
+  "2287": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Documentary"
+  },
+  "206197": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Mystery|Drama|Thriller"
+  },
+  "26837": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Music|Crime|Drama"
+  },
+  "51955": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Comedy|Romance"
+  },
+  "376004": {
+    "budget": 750000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Thriller|Drama"
+  },
+  "158752": {
+    "budget": 650000,
+    "revenue": 171962,
+    "runtime": 90,
+    "genres": "Horror|Fantasy|Comedy|Drama|Science Fiction|Thriller"
+  },
+  "40658": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Documentary"
+  },
+  "296943": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 71,
+    "genres": "Documentary"
+  },
+  "118612": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Mystery|Thriller|Horror|Drama"
+  },
+  "138976": {
+    "budget": 625000,
+    "revenue": 0,
+    "runtime": 68,
+    "genres": "Drama"
+  },
+  "323967": {
+    "budget": 700000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Drama|Comedy"
+  },
+  "11598": {
+    "budget": 600000,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy"
+  },
+  "26916": {
+    "budget": 600000,
+    "revenue": 173599,
+    "runtime": 106,
+    "genres": "Action|Adventure|Drama"
+  },
+  "181940": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Thriller|Mystery"
+  },
+  "125263": {
+    "budget": 600000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "263503": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Crime|Drama"
+  },
+  "324322": {
+    "budget": 522360,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Music|Documentary"
+  },
+  "331493": {
+    "budget": 600000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": ""
+  },
+  "375950": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Drama|Comedy"
+  },
+  "278348": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Thriller"
+  },
+  "70875": {
+    "budget": 56000,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Documentary"
+  },
+  "75986": {
+    "budget": 550000,
+    "revenue": 5269990,
+    "runtime": 88,
+    "genres": "Drama|Romance"
+  },
+  "385636": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy|Drama"
+  },
+  "211086": {
+    "budget": 550000,
+    "revenue": 0,
+    "runtime": 115,
+    "genres": "Documentary|Drama"
+  },
+  "23069": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Adventure|Family|Romance"
+  },
+  "89857": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy"
+  },
+  "14358": {
+    "budget": 500000,
+    "revenue": 9400000,
+    "runtime": 105,
+    "genres": "Documentary|Family"
+  },
+  "41144": {
+    "budget": 500000,
+    "revenue": 3824868,
+    "runtime": 120,
+    "genres": "Drama"
+  },
+  "35199": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Documentary"
+  },
+  "16653": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Comedy|Drama|Family|Romance"
+  },
+  "14757": {
+    "budget": 46000,
+    "revenue": 3910519,
+    "runtime": 83,
+    "genres": "Drama"
+  },
+  "23655": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Drama|Music|Romance"
+  },
+  "36825": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Comedy|Family|Crime"
+  },
+  "33430": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Drama|Romance"
+  },
+  "125052": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Romance|Crime|Drama"
+  },
+  "96238": {
+    "budget": 0,
+    "revenue": 307576,
+    "runtime": 98,
+    "genres": "Comedy|Romance"
+  },
+  "30246": {
+    "budget": 500000,
+    "revenue": 243347,
+    "runtime": 95,
+    "genres": "Crime|Drama|Thriller"
+  },
+  "7301": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "172533": {
+    "budget": 0,
+    "revenue": 343341,
+    "runtime": 90,
+    "genres": "Romance|Drama|Comedy"
+  },
+  "180383": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Documentary"
+  },
+  "84318": {
+    "budget": 0,
+    "revenue": 133778,
+    "runtime": 89,
+    "genres": "Documentary|History"
+  },
+  "45145": {
+    "budget": 500000,
+    "revenue": 90091,
+    "runtime": 97,
+    "genres": "Comedy|Romance"
+  },
+  "13983": {
+    "budget": 500000,
+    "revenue": 52868,
+    "runtime": 84,
+    "genres": "Comedy"
+  },
+  "19844": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "21801": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 116,
+    "genres": "Drama"
+  },
+  "73511": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Drama|Comedy"
+  },
+  "43653": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "139715": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy|Horror"
+  },
+  "45380": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Action|Comedy"
+  },
+  "30867": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Documentary|Music"
+  },
+  "81220": {
+    "budget": 500000,
+    "revenue": 2823,
+    "runtime": 87,
+    "genres": "Drama|Romance"
+  },
+  "253626": {
+    "budget": 0,
+    "revenue": 316472,
+    "runtime": 104,
+    "genres": "Drama|Thriller|War"
+  },
+  "294550": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Documentary"
+  },
+  "90369": {
+    "budget": 4500000,
+    "revenue": 2700000,
+    "runtime": 103,
+    "genres": "Drama|Romance"
+  },
+  "117942": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Horror|Comedy"
+  },
+  "380097": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "322194": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Action|Thriller|Mystery"
+  },
+  "98568": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Mystery|Thriller|Science Fiction"
+  },
+  "119657": {
+    "budget": 500,
+    "revenue": 0,
+    "runtime": 101,
+    "genres": "Crime|Drama"
+  },
+  "380733": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Romance|Action"
+  },
+  "285743": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Horror|Music"
+  },
+  "362765": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Comedy|Mystery"
+  },
+  "379532": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Family"
+  },
+  "253261": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Documentary"
+  },
+  "297100": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Family"
+  },
+  "15239": {
+    "budget": 500000,
+    "revenue": 800000,
+    "runtime": 82,
+    "genres": "Action|Comedy|Horror|Science Fiction"
+  },
+  "94072": {
+    "budget": 0,
+    "revenue": 2712328,
+    "runtime": 91,
+    "genres": "Drama"
+  },
+  "4107": {
+    "budget": 0,
+    "revenue": 773228,
+    "runtime": 107,
+    "genres": "Drama|History"
+  },
+  "325579": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 0,
+    "genres": "Action"
+  },
+  "17287": {
+    "budget": 500000,
+    "revenue": 13804,
+    "runtime": 103,
+    "genres": "Comedy|Horror|Science Fiction"
+  },
+  "198370": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Comedy|Drama"
+  },
+  "328307": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 0,
+    "genres": "Documentary"
+  },
+  "15389": {
+    "budget": 225000,
+    "revenue": 2900000,
+    "runtime": 99,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "464": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 132,
+    "genres": "Romance|Drama|Comedy|Music"
+  },
+  "308467": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Horror|Drama"
+  },
+  "188166": {
+    "budget": 420000,
+    "revenue": 993313,
+    "runtime": 90,
+    "genres": "Crime|Thriller"
+  },
+  "1282": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Documentary"
+  },
+  "64499": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "281189": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Horror"
+  },
+  "47546": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Documentary"
+  },
+  "189711": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Horror|Comedy"
+  },
+  "19204": {
+    "budget": 400000,
+    "revenue": 123843,
+    "runtime": 88,
+    "genres": "Horror"
+  },
+  "18045": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Horror|Science Fiction|Thriller"
+  },
+  "43743": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Drama|Mystery|Horror"
+  },
+  "157909": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Drama|Thriller"
+  },
+  "10238": {
+    "budget": 400000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama"
+  },
+  "15800": {
+    "budget": 375000,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Documentary"
+  },
+  "319069": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "History|Documentary"
+  },
+  "25678": {
+    "budget": 350000,
+    "revenue": 4000000,
+    "runtime": 90,
+    "genres": "Action"
+  },
+  "79161": {
+    "budget": 0,
+    "revenue": 84109,
+    "runtime": 90,
+    "genres": "Documentary"
+  },
+  "371690": {
+    "budget": 350000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Science Fiction|Family"
+  },
+  "52032": {
+    "budget": 0,
+    "revenue": 246574,
+    "runtime": 83,
+    "genres": "Animation|Comedy|Drama"
+  },
+  "38810": {
+    "budget": 275000,
+    "revenue": 110248,
+    "runtime": 98,
+    "genres": "Drama"
+  },
+  "11956": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 91,
+    "genres": "Comedy"
+  },
+  "1550": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Comedy|Drama"
+  },
+  "162396": {
+    "budget": 50,
+    "revenue": 60,
+    "runtime": 116,
+    "genres": "Drama"
+  },
+  "26518": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 74,
+    "genres": "Drama"
+  },
+  "8942": {
+    "budget": 200000,
+    "revenue": 1192655,
+    "runtime": 80,
+    "genres": "Drama"
+  },
+  "68412": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Drama"
+  },
+  "2786": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|Romance|Crime"
+  },
+  "87943": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Documentary|Crime"
+  },
+  "91721": {
+    "budget": 0,
+    "revenue": 9248,
+    "runtime": 95,
+    "genres": "Drama|Romance"
+  },
+  "47534": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Action|Adventure|Drama"
+  },
+  "40914": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Thriller"
+  },
+  "365052": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|Music"
+  },
+  "250184": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 102,
+    "genres": "Horror|Drama|Thriller"
+  },
+  "426067": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Horror"
+  },
+  "324352": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Romance|Comedy|Drama"
+  },
+  "318040": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Drama|Romance"
+  },
+  "27420": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Horror"
+  },
+  "80468": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 97,
+    "genres": "Horror|Thriller|Comedy"
+  },
+  "84188": {
+    "budget": 270000,
+    "revenue": 592116,
+    "runtime": 90,
+    "genres": "Drama|Thriller"
+  },
+  "300327": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Action|Adventure|Mystery"
+  },
+  "14290": {
+    "budget": 250000,
+    "revenue": 3800000,
+    "runtime": 101,
+    "genres": "Crime|Drama|Romance"
+  },
+  "29371": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "44490": {
+    "budget": 250000,
+    "revenue": 1182065,
+    "runtime": 96,
+    "genres": "Drama|Comedy"
+  },
+  "32222": {
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 100,
+    "genres": "Comedy|Romance|Drama"
+  },
+  "378237": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama|Action|Crime"
+  },
+  "76996": {
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 78,
+    "genres": "Comedy|Romance"
+  },
+  "1424": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 73,
+    "genres": "Drama|Mystery|Thriller"
+  },
+  "325123": {
+    "budget": 300000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Horror|Action"
+  },
+  "142132": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Comedy"
+  },
+  "20520": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75,
+    "genres": "Drama|Comedy"
+  },
+  "78307": {
+    "budget": 0,
+    "revenue": 49382,
+    "runtime": 86,
+    "genres": "Drama"
+  },
+  "12247": {
+    "budget": 250000,
+    "revenue": 168237,
+    "runtime": 92,
+    "genres": "Drama|Thriller"
+  },
+  "29917": {
+    "budget": 600000,
+    "revenue": 394717,
+    "runtime": 101,
+    "genres": "Thriller|Mystery"
+  },
+  "70687": {
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Science Fiction|Drama"
+  },
+  "60463": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Music|Drama|Family"
+  },
+  "46252": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Drama"
+  },
+  "24869": {
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Action|Fantasy"
+  },
+  "77934": {
+    "budget": 250000,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Drama|Family"
+  },
+  "34697": {
+    "budget": 3500000,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Crime|Drama"
+  },
+  "320435": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 0,
+    "genres": ""
+  },
+  "150211": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror|Thriller"
+  },
+  "306667": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 108,
+    "genres": "Family|Drama"
+  },
+  "274758": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Documentary"
+  },
+  "40963": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy"
+  },
+  "173224": {
+    "budget": 250,
+    "revenue": 0,
+    "runtime": 118,
+    "genres": "Romance|Comedy|Music"
+  },
+  "376010": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Western"
+  },
+  "77332": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Drama|Romance|Mystery|Horror"
+  },
+  "194588": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Documentary"
+  },
+  "83588": {
+    "budget": 2000000,
+    "revenue": 2368060,
+    "runtime": 101,
+    "genres": "Drama"
+  },
+  "53256": {
+    "budget": 0,
+    "revenue": 2611555,
+    "runtime": 119,
+    "genres": "Romance|Drama|Comedy"
+  },
+  "40920": {
+    "budget": 200000,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Music|Drama"
+  },
+  "287815": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Documentary"
+  },
+  "54702": {
+    "budget": 200000,
+    "revenue": 346085,
+    "runtime": 90,
+    "genres": "Crime|Horror|Thriller"
+  },
+  "176074": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Comedy|Drama"
+  },
+  "69270": {
+    "budget": 13000000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Horror"
+  },
+  "5759": {
+    "budget": 0,
+    "revenue": 140106,
+    "runtime": 84,
+    "genres": "Comedy|Drama|Horror"
+  },
+  "402515": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 92,
+    "genres": "Fantasy|Thriller"
+  },
+  "126141": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 59,
+    "genres": "Documentary|TV Movie"
+  },
+  "48035": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 125,
+    "genres": "Drama"
+  },
+  "14758": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "13363": {
+    "budget": 200000,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Science Fiction|Drama"
+  },
+  "37985": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Documentary"
+  },
+  "25786": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Drama|Family|TV Movie"
+  },
+  "36549": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Drama|Mystery|Science Fiction|Thriller"
+  },
+  "361398": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 105,
+    "genres": "Music|Comedy|Drama"
+  },
+  "289180": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Science Fiction|Thriller|Drama"
+  },
+  "288927": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 94,
+    "genres": "Drama"
+  },
+  "27995": {
+    "budget": 175000,
+    "revenue": 7137503,
+    "runtime": 84,
+    "genres": "Comedy|Romance"
+  },
+  "253290": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 77,
+    "genres": "Documentary"
+  },
+  "344466": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 104,
+    "genres": "Drama"
+  },
+  "408429": {
+    "budget": 200,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Drama"
+  },
+  "28666": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "30979": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Documentary"
+  },
+  "50497": {
+    "budget": 0,
+    "revenue": 1181929,
+    "runtime": 86,
+    "genres": "Thriller|Drama|Horror"
+  },
+  "354624": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Action|Drama"
+  },
+  "13187": {
+    "budget": 96000,
+    "revenue": 0,
+    "runtime": 25,
+    "genres": "Animation|Family|Comedy|TV Movie"
+  },
+  "335244": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 72,
+    "genres": "Documentary"
+  },
+  "178862": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 73,
+    "genres": "Documentary"
+  },
+  "331745": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Documentary"
+  },
+  "282128": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Drama"
+  },
+  "86812": {
+    "budget": 0,
+    "revenue": 405614,
+    "runtime": 85,
+    "genres": "Science Fiction|Drama|Mystery|Thriller"
+  },
+  "38786": {
+    "budget": 120000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Documentary|War"
+  },
+  "18632": {
+    "budget": 120000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Comedy|Horror"
+  },
+  "40652": {
+    "budget": 120000,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Drama|Romance"
+  },
+  "266857": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 70,
+    "genres": "Comedy"
+  },
+  "34101": {
+    "budget": 100000,
+    "revenue": 5228617,
+    "runtime": 81,
+    "genres": "Comedy"
+  },
+  "9821": {
+    "budget": 0,
+    "revenue": 2652246,
+    "runtime": 100,
+    "genres": "Drama|Comedy"
+  },
+  "65448": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 99,
+    "genres": "Action|Drama|Crime"
+  },
+  "18841": {
+    "budget": 40000,
+    "revenue": 143312,
+    "runtime": 90,
+    "genres": "Comedy|Horror|Science Fiction"
+  },
+  "272726": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Family|Comedy"
+  },
+  "175291": {
+    "budget": 200000,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Comedy|Crime|Thriller"
+  },
+  "80215": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 103,
+    "genres": "Documentary|Drama"
+  },
+  "13538": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Thriller"
+  },
+  "51130": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 68,
+    "genres": "Crime|Mystery|Thriller"
+  },
+  "270554": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Thriller|Action|Drama|Science Fiction"
+  },
+  "72086": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 106,
+    "genres": "Thriller|Mystery|Horror"
+  },
+  "268917": {
+    "budget": 100,
+    "revenue": 0,
+    "runtime": 77,
+    "genres": "Documentary|Music"
+  },
+  "64973": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Documentary"
+  },
+  "90414": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 86,
+    "genres": "Comedy|Romance"
+  },
+  "111794": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Romance|Comedy"
+  },
+  "360188": {
+    "budget": 75000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Science Fiction|Horror"
+  },
+  "85860": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy|Action|Drama|Science Fiction"
+  },
+  "244534": {
+    "budget": 70000,
+    "revenue": 30312,
+    "runtime": 82,
+    "genres": "Comedy|Drama"
+  },
+  "33468": {
+    "budget": 62000,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Horror|Science Fiction"
+  },
+  "294086": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 75,
+    "genres": "Drama"
+  },
+  "139998": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy|Drama"
+  },
+  "74777": {
+    "budget": 70000,
+    "revenue": 8555,
+    "runtime": 91,
+    "genres": "Horror|Mystery"
+  },
+  "16388": {
+    "budget": 25000,
+    "revenue": 19326506,
+    "runtime": 98,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "159770": {
+    "budget": 10000,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Comedy|Drama|Crime"
+  },
+  "42109": {
+    "budget": 0,
+    "revenue": 1300000,
+    "runtime": 99,
+    "genres": "Drama|Romance"
+  },
+  "193603": {
+    "budget": 60000,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Thriller|Horror"
+  },
+  "84659": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 110,
+    "genres": "Drama|Comedy|Family"
+  },
+  "322745": {
+    "budget": 50000,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Documentary"
+  },
+  "20981": {
+    "budget": 50000,
+    "revenue": 0,
+    "runtime": 47,
+    "genres": "Horror|Thriller|Fantasy|Science Fiction"
+  },
+  "174362": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 93,
+    "genres": "Documentary"
+  },
+  "250902": {
+    "budget": 50000,
+    "revenue": 0,
+    "runtime": 81,
+    "genres": "Documentary"
+  },
+  "158895": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Drama"
+  },
+  "222250": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 96,
+    "genres": "Comedy"
+  },
+  "18292": {
+    "budget": 42000,
+    "revenue": 241816,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "125537": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Romance"
+  },
+  "326576": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 95,
+    "genres": "Thriller|Drama|Science Fiction"
+  },
+  "228550": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 83,
+    "genres": "Horror"
+  },
+  "13963": {
+    "budget": 0,
+    "revenue": 321952,
+    "runtime": 117,
+    "genres": "Documentary|Music"
+  },
+  "290391": {
+    "budget": 50000,
+    "revenue": 0,
+    "runtime": 75,
+    "genres": "Thriller|Horror"
+  },
+  "44770": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 80,
+    "genres": "Drama"
+  },
+  "69382": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 78,
+    "genres": "Action|Western"
+  },
+  "40769": {
+    "budget": 500000,
+    "revenue": 0,
+    "runtime": 109,
+    "genres": "Drama|Comedy"
+  },
+  "220490": {
+    "budget": 5000,
+    "revenue": 0,
+    "runtime": 89,
+    "genres": "Horror"
+  },
+  "42497": {
+    "budget": 27000,
+    "revenue": 0,
+    "runtime": 69,
+    "genres": "Fantasy"
+  },
+  "33693": {
+    "budget": 0,
+    "revenue": 76901,
+    "runtime": 90,
+    "genres": "Drama|Comedy|Romance"
+  },
+  "14585": {
+    "budget": 25000,
+    "revenue": 2804473,
+    "runtime": 97,
+    "genres": "Comedy|Drama"
+  },
+  "185465": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 78,
+    "genres": "Drama"
+  },
+  "38780": {
+    "budget": 120,
+    "revenue": 428,
+    "runtime": 84,
+    "genres": "Action|Crime|Thriller"
+  },
+  "14022": {
+    "budget": 23000,
+    "revenue": 1228108,
+    "runtime": 97,
+    "genres": "Drama|Comedy"
+  },
+  "366967": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Thriller|Crime|Drama"
+  },
+  "255266": {
+    "budget": 22000,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Comedy|Romance"
+  },
+  "17345": {
+    "budget": 20000,
+    "revenue": 37000,
+    "runtime": 120,
+    "genres": "Drama|Family"
+  },
+  "226458": {
+    "budget": 0,
+    "revenue": 489792,
+    "runtime": 91,
+    "genres": "Thriller|Horror"
+  },
+  "24055": {
+    "budget": 15000,
+    "revenue": 0,
+    "runtime": 85,
+    "genres": "Comedy|Drama|Romance"
+  },
+  "287625": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 60,
+    "genres": "Drama"
+  },
+  "44990": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 88,
+    "genres": "Comedy|Romance"
+  },
+  "86304": {
+    "budget": 20000,
+    "revenue": 0,
+    "runtime": 78,
+    "genres": "Science Fiction|Thriller|Horror"
+  },
+  "39851": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 111,
+    "genres": "Drama"
+  },
+  "13898": {
+    "budget": 10000,
+    "revenue": 756035,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "157185": {
+    "budget": 10000,
+    "revenue": 0,
+    "runtime": 84,
+    "genres": "Horror"
+  },
+  "182291": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Drama"
+  },
+  "286939": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 82,
+    "genres": "Thriller|Horror|Comedy"
+  },
+  "124606": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Drama"
+  },
+  "67238": {
+    "budget": 7,
+    "revenue": 70,
+    "runtime": 80,
+    "genres": "Thriller"
+  },
+  "72766": {
+    "budget": 9000,
+    "revenue": 5000,
+    "runtime": 85,
+    "genres": "Comedy|Romance|Drama"
+  },
+  "231617": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 87,
+    "genres": "Comedy|Drama|Romance|TV Movie"
+  },
+  "126186": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 98,
+    "genres": "Romance|Comedy|Drama"
+  },
+  "25975": {
+    "budget": 0,
+    "revenue": 0,
+    "runtime": 90,
+    "genres": "Documentary"
+  }
+}
