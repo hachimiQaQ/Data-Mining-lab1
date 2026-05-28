@@ -1,0 +1,44 @@
+Experiment 1 dimensionality reduction and clustering summary
+==============================================================
+Input file: movies_basic_processed.csv
+Rows: 4803
+Original columns: 30
+Encoded feature columns: 67
+Excluded from feature matrix: profit_level
+Encoded text columns: original_language, status
+
+Encoding and scaling
+--------------------
+original_language uses one-hot encoding because language is a nominal category.
+Integer/ordinal encoding would add a false order between languages.
+status uses one-hot encoding for the same reason and has very few categories.
+All encoded features are standardized with StandardScaler before PCA/Isomap.
+
+DBSCAN parameters
+--------------------
+PCA: eps=0.5698, min_samples=4, clusters=6, noise=47, cluster_count>=3=yes
+Isomap: eps=3.3856, min_samples=4, clusters=6, noise=30, cluster_count>=3=yes
+
+Profit-level distribution by cluster
+------------------------------------
+method  cluster cluster_name  total  profit_level_1_count  profit_level_2_count  profit_level_3_count  profit_level_1_ratio  profit_level_2_ratio  profit_level_3_ratio  profit_level_entropy
+   PCA       -1        noise     47                     6                     6                    35              0.127660              0.127660              0.744681              1.074920
+   PCA        0    cluster_0   4724                  1289                   642                  2793              0.272862              0.135902              0.591236              1.350859
+   PCA        1    cluster_1      5                     0                     0                     5              0.000000              0.000000              1.000000              0.000000
+   PCA        2    cluster_2      4                     0                     0                     4              0.000000              0.000000              1.000000              0.000000
+   PCA        3    cluster_3     13                     0                     1                    12              0.000000              0.076923              0.923077              0.391244
+   PCA        4    cluster_4      7                     0                     0                     7              0.000000              0.000000              1.000000              0.000000
+   PCA        5    cluster_5      3                     0                     0                     3              0.000000              0.000000              1.000000              0.000000
+Isomap       -1        noise     30                     6                     6                    18              0.200000              0.200000              0.600000              1.370951
+Isomap        0    cluster_0   4417                  1184                   594                  2639              0.268055              0.134480              0.597464              1.342362
+Isomap        1    cluster_1    127                    35                    17                    75              0.275591              0.133858              0.590551              1.349526
+Isomap        2    cluster_2    100                    33                    18                    49              0.330000              0.180000              0.490000              1.477412
+Isomap        3    cluster_3    103                    28                     6                    69              0.271845              0.058252              0.669903              1.136948
+Isomap        4    cluster_4     22                     9                     7                     6              0.409091              0.318182              0.272727              1.564405
+Isomap        5    cluster_5      4                     0                     1                     3              0.000000              0.250000              0.750000              0.811278
+
+Interpretation note
+-------------------
+Low entropy means a cluster is dominated by fewer profit levels.
+High entropy means profit levels are mixed, so the cluster does not naturally
+match the profit_level label very well.
