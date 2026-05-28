@@ -31,6 +31,8 @@ CACHE_FILE = Path("tmdb_cache.json")
 # tmdb_failed_records.csv 保存 TMDB API 没有成功获取到的少量记录。
 # 这些记录后续会继续使用本脚本的统计方法进行填充，保证最终数据完整。
 FAILED_TMDB_FILE = Path("tmdb_failed_records.csv")
+DIRECTOR_COLLABORATIONS_FILE = Path("director_collaborations.csv")
+DIRECTOR_STATISTICS_FILE = Path("director_statistics.csv")
 
 # 使用数据集里的 id 访问 TMDB 电影详情接口。
 # 例如 id=19995 时，请求 https://api.themoviedb.org/3/movie/19995。
@@ -254,27 +256,30 @@ def apply_tmdb_fill(df, stats):
         | (df["genres_clean"].str.strip() == "")
     )
 
-    needed_ids = [str(movie_id) for movie_id in df.loc[need_api, "id"].tolist()]
-    uncached_ids = sorted(set(movie_id for movie_id in needed_ids if movie_id not in cache))
+    # id 和 movie_id 在本数据集中逐行相同；main() 中会先做显式校验。
+    # 这里使用 tmdb_id 这个变量名，强调它是用于 TMDB 详情接口的电影编号，
+    # 避免把 DataFrame 的 id 列和 movie_id 列混为一谈。
+    needed_tmdb_ids = [str(tmdb_id) for tmdb_id in df.loc[need_api, "id"].tolist()]
+    uncached_ids = sorted(set(tmdb_id for tmdb_id in needed_tmdb_ids if tmdb_id not in cache))
     if uncached_ids:
         print(f"\nFetching {len(uncached_ids)} movies from TMDB API with {MAX_TMDB_WORKERS} workers...")
         failed_ids = []
-        # 并发请求 TMDB。每个线程只处理一个 movie_id，返回后统一写入缓存。
+        # 并发请求 TMDB。每个线程只处理一个 tmdb_id，返回后统一写入缓存。
         with ThreadPoolExecutor(max_workers=MAX_TMDB_WORKERS) as executor:
             futures = {
-                executor.submit(fetch_tmdb_movie_from_api, movie_id): movie_id
-                for movie_id in uncached_ids
+                executor.submit(fetch_tmdb_movie_from_api, tmdb_id): tmdb_id
+                for tmdb_id in uncached_ids
             }
             completed = 0
             for future in as_completed(futures):
-                movie_id, data, error = future.result()
+                tmdb_id, data, error = future.result()
                 completed += 1
                 if data:
-                    cache[movie_id] = data
+                    cache[tmdb_id] = data
                     stats["api_success"] += 1
                 else:
                     stats["api_failed"] += 1
-                    failed_ids.append(movie_id)
+                    failed_ids.append(tmdb_id)
                 if completed % 100 == 0 or completed == len(uncached_ids):
                     # 定期保存缓存，即使中途停止，下次运行也可以接着已有结果继续。
                     save_cache(cache)
@@ -288,8 +293,8 @@ def apply_tmdb_fill(df, stats):
             print(f"TMDB failed records saved to {FAILED_TMDB_FILE}")
 
     for index in df.index[need_api]:
-        movie_id = df.at[index, "id"]
-        data = cache.get(str(movie_id), {})
+        tmdb_id = df.at[index, "id"]
+        data = cache.get(str(tmdb_id), {})
         if data:
             stats["api_cache_hit"] += 1
         if not data:
@@ -338,7 +343,7 @@ def add_genre_one_hot(df):
 
 
 def print_director_statistics(df):
-    """打印实验要求的导演统计信息。"""
+    """打印并保存实验要求的导演统计信息。"""
     director_counts = Counter()
     director_revenue = defaultdict(float)
     director_combo_counts = Counter()
@@ -364,6 +369,37 @@ def print_director_statistics(df):
     print("\nTop 5 director collaborations:")
     for combo, count in director_combo_counts.most_common(5):
         print(f"{' | '.join(combo)}: {count}")
+
+    director_stats = pd.DataFrame(
+        [
+            {
+                "director": director,
+                "movie_count": count,
+                "total_revenue": director_revenue[director],
+            }
+            for director, count in director_counts.items()
+        ]
+    ).sort_values(["movie_count", "total_revenue"], ascending=[False, False])
+    director_stats.to_csv(DIRECTOR_STATISTICS_FILE, index=False, encoding="utf-8-sig")
+    print(f"\nDirector statistics saved to {DIRECTOR_STATISTICS_FILE}")
+
+    collaboration_stats = pd.DataFrame(
+        [
+            {
+                "director_1": combo[0],
+                "director_2": combo[1],
+                "collaboration_count": count,
+            }
+            for combo, count in director_combo_counts.items()
+        ]
+    )
+    if not collaboration_stats.empty:
+        collaboration_stats = collaboration_stats.sort_values(
+            ["collaboration_count", "director_1", "director_2"],
+            ascending=[False, True, True],
+        )
+    collaboration_stats.to_csv(DIRECTOR_COLLABORATIONS_FILE, index=False, encoding="utf-8-sig")
+    print(f"Director collaborations saved to {DIRECTOR_COLLABORATIONS_FILE}")
 
     return director_counts
 
@@ -391,6 +427,29 @@ def print_missing_summary(df, title):
     print(f"genres: empty={empty_genres}")
 
 
+def validate_tmdb_id_columns(df):
+    """确认 id 和 movie_id 两列是否可以等价用于 TMDB 查询。
+
+    本数据集来自 TMDB 电影数据，id 和 movie_id 两列在当前 movies.csv 中逐行相同。
+    前面通过 TMDB API 补全 budget/revenue/runtime/genres 时，只需要一个 TMDB
+    电影编号即可。这里显式校验两列一致，是为了避免后续换数据集时误以为
+    “id 一定等于 movie_id”。如果发现不一致，直接报错，避免用错编号查询 API。
+    """
+    if "id" not in df.columns or "movie_id" not in df.columns:
+        raise ValueError("Input data must contain both id and movie_id columns.")
+
+    id_values = df["id"].astype(str)
+    movie_id_values = df["movie_id"].astype(str)
+    mismatch = id_values != movie_id_values
+    if mismatch.any():
+        examples = df.loc[mismatch, ["id", "movie_id", "title"]].head(5)
+        raise ValueError(
+            "Columns id and movie_id are not identical; please choose the correct "
+            f"TMDB id column before API filling. Examples:\n{examples.to_string(index=False)}"
+        )
+    print("Verified id and movie_id are identical for TMDB API lookup.")
+
+
 def main():
     if not INPUT_FILE.exists():
         raise FileNotFoundError(f"Cannot find input file: {INPUT_FILE}")
@@ -398,6 +457,7 @@ def main():
     stats = Counter()
     df = pd.read_csv(INPUT_FILE)
     print(f"Loaded {INPUT_FILE}: {df.shape[0]} rows, {df.shape[1]} columns")
+    validate_tmdb_id_columns(df)
 
     # 统一转成数值类型，便于判断 0 值和计算 profit_level。
     for column in ["budget", "revenue", "runtime"]:
