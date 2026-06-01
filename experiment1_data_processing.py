@@ -16,8 +16,8 @@ import pandas as pd
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-# TMDB API key：本实验按要求直接写入代码。公开仓库中不建议这样做。
-TMDB_API_KEY = "626360df446c552d75af6ba81901736b"
+# 这里的api key仅为示例，不是真实的key
+TMDB_API_KEY = "626360df446c552d75af6ba81901736a"
 INPUT_FILE = Path("movies.csv")
 OUTPUT_FILE = Path("movies_basic_processed.csv")
 
